@@ -157,6 +157,11 @@
             android:name=".astronomy5"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_astronomy5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy6"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
