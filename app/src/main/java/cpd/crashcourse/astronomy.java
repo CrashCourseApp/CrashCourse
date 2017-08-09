@@ -28,6 +28,11 @@ public class astronomy extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void goToAstronomy3(View v){
+        Intent intent = new Intent(this, Astronomy3.class);
+        startActivity(intent);
+    }
+
 }
 
 
