@@ -23,7 +23,7 @@ import android.content.Intent;
 import com.google.android.youtube.player.YouTubePlayerView;
 
 /**
- * An example full-screen activity that shows and hides the system UI (i.e.
+ * An full-screen that shows and hides the system UI (i.e.
  * status bar and navigation/system bar) with user interaction.
  */
 public class astronomy5 extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener{
