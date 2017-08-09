@@ -115,4 +115,9 @@ public class ScrollingActivity extends AppCompatActivity {
         Intent intent = new Intent(this,film.class);
         startActivity(intent);
     }
+
+    public void goToGames(View v){
+        Intent intent = new Intent(this,games.class);
+        startActivity(intent);
+    }
 }

@@ -1,527 +1,522 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+
+
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView5"
+    android:fillViewport="true"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="cpd.crashcourse.ChemPage"
-    tools:showIn="@layout/activity_chem_page">
+    android:layout_height="wrap_content" >
 
-    <ScrollView
-        android:id="@+id/scrollView5"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-
-        <LinearLayout
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1" >
+        <ImageButton
+            android:id="@+id/button501"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:weightSum="1" >
-            <ImageButton
-                android:id="@+id/button501"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem1"
-                android:visibility="visible" />
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem1"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button502"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem2"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button502"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem2"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button503"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem3"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button503"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem3"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button504"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem4"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button504"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem4"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button505"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem5"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button505"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem5"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button506"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem6"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button506"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem6"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button507"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem7"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button507"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem7"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button508"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem8"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button508"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem8"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button509"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem9"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button509"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem9"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button510"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem10"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button510"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem10"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button511"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem11"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button511"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem11"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button512"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem12"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button512"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem12"
+            android:visibility="visible" />
 
 
-            <ImageButton
-                android:id="@+id/button513"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem13"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button513"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem13"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button514"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem14"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button514"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem14"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button515"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem15"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button515"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem15"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button516"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem16"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button516"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem16"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button517"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem17"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button517"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem17"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button518"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem18"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button518"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem18"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button519"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem19"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button519"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem19"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button520"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem20"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button520"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem20"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button521"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem21"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button521"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem21"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button522"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem22"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button522"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem22"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button523"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem23"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button523"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem23"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button524"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem24"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button524"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem24"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button525"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem25"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button525"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem25"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button526"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem26"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button526"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem26"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button527"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem27"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button527"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem27"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button528"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem28"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button528"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem28"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button529"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem29"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button529"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem29"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button530"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem30"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button530"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem30"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button531"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem31"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button531"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem31"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button532"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem32"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button532"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem32"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button533"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem33"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button533"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem33"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button534"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem34"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button534"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem34"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button535"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem35"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button535"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem35"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button536"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem36"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button536"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem36"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button537"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem37"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button537"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem37"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button538"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem38"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button538"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem38"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button539"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem39"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button539"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem39"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button540"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem40"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button540"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem40"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button541"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem41"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button541"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem41"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button542"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem42"
-                android:visibility="visible" />
-            <ImageButton
-                android:id="@+id/button543"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem43"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button542"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem42"
+            android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button543"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem43"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button544"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem44"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button544"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem44"
+            android:visibility="visible" />
 
-            <ImageButton
-                android:id="@+id/button545"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem45"
-                android:visibility="visible" />
-            <ImageButton
-                android:id="@+id/button546"
-                android:layout_width="match_parent"
-                android:layout_height="135dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/chem46"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button545"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem45"
+            android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button546"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/chem46"
+            android:visibility="visible" />
 
 
 
@@ -532,8 +527,9 @@
 
 
 
-        </LinearLayout>
-    </ScrollView>
+    </LinearLayout>
+</ScrollView>
 
 
-</android.support.v4.widget.NestedScrollView>
+
+

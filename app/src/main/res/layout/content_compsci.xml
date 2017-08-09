@@ -230,16 +230,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs23"
             android:visibility="visible" />
-        <ImageButton
-            android:id="@+id/comps23"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentStart="true"
-            android:layout_alignParentTop="true"
-            android:background="@android:color/white" android:layout_marginTop="10dp"
-            android:src="@drawable/cs23"
-            android:visibility="visible" />
+
 
 
 
