@@ -142,6 +142,11 @@
             android:name=".anatomy9"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_anatomy9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".Astronomy3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy3"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
