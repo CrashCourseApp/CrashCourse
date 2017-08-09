@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cpd.crashcourse">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/cc"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ScrollingActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AnatomyPage"
+            android:label="@string/title_activity_anatomy_page"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".anatomyIntro"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy_intro"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy"
+            android:label="@string/title_activity_astronomy"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BigHistory"
+            android:label="@string/title_activity_big_history"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BiologyPage"
+            android:label="@string/title_activity_biology_page"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChemPage"
+            android:label="@string/title_activity_chem_page"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EcoPage"
+            android:label="@string/title_activity_eco_page"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".anatomy2"
+            android:label="@string/title_activity_anatomy2"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy3"
+            android:label="@string/title_activity_anatomy3"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy4"
+            android:label="@string/title_activity_anatomy4"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy5"
+            android:label="anatomy5"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy1"
+            android:label="astronomy1"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy2"
+            android:label="astronomy2"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy6"
+            android:label="anatomy6"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy7"
+            android:label="anatomy6"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".anatomy8" />
+        <activity
+            android:name=".intellectualproperty"
+            android:label="@string/title_activity_intellectualproperty"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gov"
+            android:label="@string/title_activity_gov"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".econ"
+            android:label="@string/title_activity_econ"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".psych"
+            android:label="@string/title_activity_psych"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".us"
+            android:label="@string/title_activity_us"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".sociology"
+            android:label="@string/title_activity_sociology"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".compsci"
+            android:label="@string/title_activity_compsci"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".film"
+            android:label="@string/title_activity_film"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".anatomy9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy9"
+            android:theme="@style/FullscreenTheme"></activity>
+    </application>
+
+</manifest>

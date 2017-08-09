@@ -1,0 +1,295 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_centerVertical="true">
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:fillViewport="true"
+            android:layout_height="fill_parent"
+            android:layout_width="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@android:color/white"
+                android:onClick="goToAnatomyPage"
+                android:src="@drawable/anatomy"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@android:color/white"
+                android:onClick="goToAstronomy"
+                android:src="@drawable/astronomy"
+                android:layout_marginTop="10dp"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@android:color/white"
+                android:onClick="goToHistory"
+                android:src="@drawable/bighistory"
+                android:layout_marginTop="10dp"
+                android:visibility="visible" />
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@android:color/white"
+                android:onClick="goToBiology"
+                android:src="@drawable/biology"
+                android:layout_marginTop="10dp"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToChemistry"
+                android:background="@android:color/white"
+                android:src="@drawable/chemistry"
+                android:visibility="visible"
+                android:layout_marginTop="10dp" />
+
+            <ImageButton
+                android:id="@+id/buttoncs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/computerscience"
+                android:visibility="visible"
+                android:onClick="goToCompSci"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+
+            <ImageButton
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToEcology"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/ecology"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/button7.5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToEcon"
+                android:src="@drawable/economics"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:visibility="visible" />
+
+
+            <ImageButton
+                android:id="@+id/buttonfh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToFilm"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/filmhistory"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/buttongm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToGov"
+                android:src="@drawable/games"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToIP"
+                android:src="@drawable/ip"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/literature"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/buttonmyth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/mythology"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/buttonphil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/philosophy"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/buttonp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/physics"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/button11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToPsych"
+                android:src="@drawable/psychology"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+
+            <ImageButton
+                android:id="@+id/buttons"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToSoc"
+                android:src="@drawable/sociology"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/button8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToGov"
+                android:src="@drawable/usgovernment"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/button17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goTous"
+                android:src="@drawable/ushistory"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:id="@+id/button18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/worldhistory"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"/>
+
+
+            <ImageButton
+                android:id="@+id/button19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:onClick="goToGov"
+                android:src="@drawable/worldhistory2"
+                android:visibility="visible"
+                android:background="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
+
+
+

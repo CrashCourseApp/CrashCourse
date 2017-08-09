@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="cpd.crashcourse.intellectualproperty"
+    tools:showIn="@layout/activity_intellectualproperty">
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb1"
+            android:layout_height="135dp"
+            android:src="@drawable/ip1"
+            android:onClick="goToAnatomyIntro"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb2"
+            android:layout_height="135dp"
+            android:src="@drawable/ip2"
+            android:onClick="goToAnatomy2"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb3"
+            android:layout_height="135dp"
+            android:src="@drawable/ip3"
+            android:onClick="goToAnatomy3"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb4"
+            android:layout_height="135dp"
+            android:src="@drawable/ip4"
+            android:onClick="goToAnatomy4"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb5"
+            android:layout_height="135dp"
+            android:src="@drawable/ip5"
+            android:onClick="goToAnatomy5"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb6"
+            android:layout_height="135dp"
+            android:src="@drawable/ip6"
+            android:onClick="goToAnatomy6"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb7"
+            android:layout_height="135dp"
+            android:src="@drawable/ip7"
+            android:onClick="goToAnatomy7"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.v4.widget.NestedScrollView>
