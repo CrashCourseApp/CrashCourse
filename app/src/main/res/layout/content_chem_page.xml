@@ -22,6 +22,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem1"
+            android:onClick="goTochemistry1"
             android:visibility="visible" />
 
         <ImageButton
@@ -33,6 +34,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem2"
+            android:onClick="goTochemistry2"
             android:visibility="visible" />
 
         <ImageButton
@@ -44,6 +46,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem3"
+            android:onClick="goTochemistry3"
             android:visibility="visible" />
 
         <ImageButton
@@ -55,6 +58,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem4"
+            android:onClick="goTochemistry4"
             android:visibility="visible" />
 
         <ImageButton
@@ -66,6 +70,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem5"
+            android:onClick="goTochemistry5"
             android:visibility="visible" />
 
         <ImageButton
@@ -77,6 +82,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem6"
+            android:onClick="goTochemistry6"
             android:visibility="visible" />
 
         <ImageButton
@@ -88,6 +94,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem7"
+            android:onClick="goTochemistry7"
             android:visibility="visible" />
 
         <ImageButton
@@ -99,6 +106,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem8"
+            android:onClick="goTochemistry8"
             android:visibility="visible" />
 
         <ImageButton
@@ -110,6 +118,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem9"
+            android:onClick="goTochemistry9"
             android:visibility="visible" />
 
         <ImageButton
@@ -121,6 +130,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem10"
+            android:onClick="goTochemistry10"
             android:visibility="visible" />
 
         <ImageButton
@@ -132,6 +142,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem11"
+            android:onClick="goTochemistry11"
             android:visibility="visible" />
 
         <ImageButton
@@ -143,6 +154,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem12"
+            android:onClick="goTochemistry12"
             android:visibility="visible" />
 
 
@@ -155,6 +167,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem13"
+            android:onClick="goTochemistry13"
             android:visibility="visible" />
 
         <ImageButton
@@ -166,6 +179,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem14"
+            android:onClick="goTochemistry14"
             android:visibility="visible" />
 
         <ImageButton
@@ -177,6 +191,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem15"
+            android:onClick="goTochemistry15"
             android:visibility="visible" />
 
         <ImageButton
@@ -188,6 +203,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem16"
+            android:onClick="goTochemistry16"
             android:visibility="visible" />
 
         <ImageButton
@@ -199,6 +215,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem17"
+            android:onClick="goTochemistry17"
             android:visibility="visible" />
 
         <ImageButton
@@ -210,6 +227,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem18"
+            android:onClick="goTochemistry18"
             android:visibility="visible" />
 
         <ImageButton
@@ -221,6 +239,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem19"
+            android:onClick="goTochemistry19"
             android:visibility="visible" />
 
         <ImageButton
@@ -232,6 +251,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem20"
+            android:onClick="goTochemistry20"
             android:visibility="visible" />
 
         <ImageButton
@@ -243,6 +263,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem21"
+            android:onClick="goTochemistry21"
             android:visibility="visible" />
 
         <ImageButton
@@ -254,6 +275,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem22"
+            android:onClick="goTochemistry22"
             android:visibility="visible" />
 
         <ImageButton
@@ -265,6 +287,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem23"
+            android:onClick="goTochemistry23"
             android:visibility="visible" />
 
         <ImageButton
@@ -276,6 +299,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem24"
+            android:onClick="goTochemistry24"
             android:visibility="visible" />
 
         <ImageButton
@@ -287,6 +311,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem25"
+            android:onClick="goTochemistry25"
             android:visibility="visible" />
 
         <ImageButton
@@ -298,6 +323,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem26"
+            android:onClick="goTochemistry26"
             android:visibility="visible" />
 
         <ImageButton
@@ -309,6 +335,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem27"
+            android:onClick="goTochemistry27"
             android:visibility="visible" />
 
         <ImageButton
@@ -320,6 +347,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem28"
+            android:onClick="goTochemistry28"
             android:visibility="visible" />
 
         <ImageButton
@@ -331,6 +359,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem29"
+            android:onClick="goTochemistry29"
             android:visibility="visible" />
 
         <ImageButton
@@ -342,6 +371,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem30"
+            android:onClick="goTochemistry30"
             android:visibility="visible" />
 
         <ImageButton
@@ -353,6 +383,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem31"
+            android:onClick="goTochemistry31"
             android:visibility="visible" />
 
         <ImageButton
@@ -364,6 +395,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem32"
+            android:onClick="goTochemistry32"
             android:visibility="visible" />
 
         <ImageButton
@@ -375,6 +407,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem33"
+            android:onClick="goTochemistry33"
             android:visibility="visible" />
 
         <ImageButton
@@ -386,6 +419,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem34"
+            android:onClick="goTochemistry34"
             android:visibility="visible" />
 
         <ImageButton
@@ -397,6 +431,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem35"
+            android:onClick="goTochemistry35"
             android:visibility="visible" />
 
         <ImageButton
@@ -408,6 +443,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem36"
+            android:onClick="goTochemistry36"
             android:visibility="visible" />
 
         <ImageButton
@@ -419,6 +455,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem37"
+            android:onClick="goTochemistry37"
             android:visibility="visible" />
 
         <ImageButton
@@ -430,6 +467,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem38"
+            android:onClick="goTochemistry38"
             android:visibility="visible" />
 
         <ImageButton
@@ -441,6 +479,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem39"
+            android:onClick="goTochemistry39"
             android:visibility="visible" />
 
         <ImageButton
@@ -452,6 +491,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem40"
+            android:onClick="goTochemistry40"
             android:visibility="visible" />
 
         <ImageButton
@@ -463,6 +503,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem41"
+            android:onClick="goTochemistry41"
             android:visibility="visible" />
 
         <ImageButton
@@ -474,6 +515,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem42"
+            android:onClick="goTochemistry42"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/button543"
@@ -484,6 +526,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem43"
+            android:onClick="goTochemistry43"
             android:visibility="visible" />
 
         <ImageButton
@@ -495,6 +538,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem44"
+            android:onClick="goTochemistry44"
             android:visibility="visible" />
 
         <ImageButton
@@ -506,6 +550,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem45"
+            android:onClick="goTochemistry45"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/button546"
@@ -516,6 +561,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem46"
+            android:onClick="goTochemistry46"
             android:visibility="visible" />
 
 
