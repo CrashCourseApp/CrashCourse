@@ -162,6 +162,236 @@
             android:name=".astronomy6"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_astronomy6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry40"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry41"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry41"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry42"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry42"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry43"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry43"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry44"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry44"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry45"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry45"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".chemistry46"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chemistry46"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
