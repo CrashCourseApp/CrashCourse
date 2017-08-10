@@ -18,6 +18,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro1"
+            android:onClick="goToAstronomy1"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr2"
@@ -28,6 +29,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro2"
+            android:onClick="goToAstronomy2"
             android:visibility="visible" />
 
         <ImageButton
