@@ -363,6 +363,181 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_astronomy46"
             android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".econ35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_econ35"
+            android:theme="@style/FullscreenTheme"></activity>
     </application>
 
 </manifest>

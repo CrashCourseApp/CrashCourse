@@ -29,6 +29,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ1"
+                    android:onClick="goToEcon1"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -40,6 +41,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ2"
+                    android:onClick="goToEcon2"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -51,6 +53,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ3"
+                    android:onClick="goToEcon3"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -62,6 +65,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ4"
+                    android:onClick="goToEcon4"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -73,6 +77,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ5"
+                    android:onClick="goToEcon5"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -84,6 +89,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ6"
+                    android:onClick="goToEcon6"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -95,6 +101,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ7"
+                    android:onClick="goToEcon7"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -106,6 +113,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ8"
+                    android:onClick="goToEcon8"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -117,6 +125,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ9"
+                    android:onClick="goToEcon9"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -128,6 +137,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ10"
+                    android:onClick="goToEcon10"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -139,6 +149,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ11"
+                    android:onClick="goToEcon11"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -150,6 +161,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ12"
+                    android:onClick="goToEcon12"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -161,6 +173,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ13"
+                    android:onClick="goToEcon13"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -172,6 +185,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ14"
+                    android:onClick="goToEcon14"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -183,6 +197,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ15"
+                    android:onClick="goToEcon15"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -194,6 +209,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ16"
+                    android:onClick="goToEcon16"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -205,6 +221,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ17"
+                    android:onClick="goToEcon17"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -216,6 +233,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ18"
+                    android:onClick="goToEcon18"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -227,6 +245,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ19"
+                    android:onClick="goToEcon19"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -238,6 +257,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ20"
+                    android:onClick="goToEcon20"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -249,6 +269,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ21"
+                    android:onClick="goToEcon21"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -260,6 +281,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ22"
+                    android:onClick="goToEcon22"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -271,6 +293,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ23"
+                    android:onClick="goToEcon23"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -282,6 +305,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ24"
+                    android:onClick="goToEcon24"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -293,6 +317,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ25"
+                    android:onClick="goToEcon25"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -304,6 +329,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ26"
+                    android:onClick="goToEcon26"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -315,6 +341,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ27"
+                    android:onClick="goToEcon27"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -326,6 +353,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ28"
+                    android:onClick="goToEcon28"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -337,6 +365,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ29"
+                    android:onClick="goToEcon29"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -348,6 +377,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ30"
+                    android:onClick="goToEcon30"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -359,6 +389,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ31"
+                    android:onClick="goToEcon31"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -370,6 +401,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ32"
+                    android:onClick="goToEcon32"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -381,6 +413,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ33"
+                    android:onClick="goToEcon33"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -392,6 +425,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ34"
+                    android:onClick="goToEcon34"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -403,6 +437,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/econ35"
+                    android:onClick="goToEcon35"
                     android:visibility="visible" />
 
 
