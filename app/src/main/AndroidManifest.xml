@@ -162,7 +162,207 @@
             android:name=".astronomy6"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_astronomy6"
-            android:theme="@style/FullscreenTheme"></activity>
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy40"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy41"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy41"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy42"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy42"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy43"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy43"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy44"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy44"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy45"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy45"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".astronomy46"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_astronomy46"
+            android:theme="@style/FullscreenTheme" />
     </application>
 
 </manifest>

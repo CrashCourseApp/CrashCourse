@@ -29,7 +29,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro2"
-            android:onClick="goToAstronomy2"
+            android:onClick="goToAstronomy5"
             android:visibility="visible" />
 
         <ImageButton
@@ -50,7 +50,9 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:onClick="goToAstronomy4"
             android:background="@android:color/white"
+
             android:src="@drawable/astro4"
             android:visibility="visible" />
         <ImageButton
@@ -62,6 +64,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro5"
+            android:onClick="goToAstronomy5"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr6"
@@ -72,6 +75,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro6"
+            android:onClick="goToAstronomy6"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr7"
@@ -82,6 +86,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro7"
+            android:onClick="goToAstronomy7"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr8"
@@ -92,6 +97,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro8"
+            android:onClick="goToAstronomy8"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr9"
@@ -102,6 +108,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro9"
+            android:onClick="goToAstronomy9"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr10"
@@ -112,6 +119,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro10"
+            android:onClick="goToAstronomy10"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr11"
@@ -122,6 +130,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro11"
+            android:onClick="goToAstronomy11"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr12"
@@ -132,6 +141,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro12"
+            android:onClick="goToAstronomy12"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr13"
@@ -142,6 +152,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro13"
+            android:onClick="goToAstronomy13"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr14"
@@ -152,6 +163,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro14"
+            android:onClick="goToAstronomy14"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr15"
@@ -162,6 +174,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro15"
+            android:onClick="goToAstronomy15"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr16"
@@ -172,6 +185,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro16"
+            android:onClick="goToAstronomy16"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr17"
@@ -182,6 +196,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro17"
+            android:onClick="goToAstronomy17"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr18"
@@ -192,6 +207,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro18"
+            android:onClick="goToAstronomy18"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr19"
@@ -202,6 +218,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro19"
+            android:onClick="goToAstronomy19"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr20"
@@ -212,6 +229,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro20"
+            android:onClick="goToAstronomy20"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr21"
@@ -222,6 +240,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro21"
+            android:onClick="goToAstronomy21"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr22"
@@ -231,7 +250,8 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/astro23"
+            android:src="@drawable/astro22"
+            android:onClick="goToAstronomy22"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr23"
@@ -242,6 +262,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro23"
+            android:onClick="goToAstronomy23"
             android:visibility="visible" />
 
         <ImageButton
@@ -253,6 +274,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro24"
+            android:onClick="goToAstronomy24"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr25"
@@ -263,6 +285,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro25"
+            android:onClick="goToAstronomy25"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr26"
@@ -273,6 +296,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro26"
+            android:onClick="goToAstronomy26"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr27"
@@ -283,6 +307,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro27"
+            android:onClick="goToAstronomy27"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr28"
@@ -293,6 +318,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro28"
+            android:onClick="goToAstronomy28"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr29"
@@ -303,6 +329,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro29"
+            android:onClick="goToAstronomy29"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr30"
@@ -313,6 +340,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro30"
+            android:onClick="goToAstronomy30"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr31"
@@ -323,6 +351,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro31"
+            android:onClick="goToAstronomy31"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr32"
@@ -333,6 +362,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro32"
+            android:onClick="goToAstronomy32"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr33"
@@ -343,6 +373,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro33"
+            android:onClick="goToAstronomy33"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr34"
@@ -353,6 +384,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro34"
+            android:onClick="goToAstronomy34"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr35"
@@ -363,6 +395,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro35"
+            android:onClick="goToAstronomy35"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr36"
@@ -373,6 +406,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro36"
+            android:onClick="goToAstronomy36"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr37"
@@ -383,6 +417,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro37"
+            android:onClick="goToAstronomy37"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr38"
@@ -393,6 +428,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro38"
+            android:onClick="goToAstronomy38"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr39"
@@ -403,6 +439,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro39"
+            android:onClick="goToAstronomy39"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr40"
@@ -413,6 +450,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro40"
+            android:onClick="goToAstronomy40"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr41"
@@ -423,6 +461,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro41"
+            android:onClick="goToAstronomy41"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr42"
@@ -433,6 +472,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro42"
+            android:onClick="goToAstronomy42"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr43"
@@ -443,6 +483,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro43"
+            android:onClick="goToAstronomy43"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr44"
@@ -453,6 +494,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro44"
+            android:onClick="goToAstronomy44"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr45"
@@ -463,6 +505,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro45"
+            android:onClick="goToAstronomy45"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/astr46"
@@ -473,6 +516,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/astro46"
+            android:onClick="goToAstronomy46"
             android:visibility="visible" />
 
 
