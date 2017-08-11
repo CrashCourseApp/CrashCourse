@@ -874,204 +874,114 @@
             android:label="@string/title_activity_gov50"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy1"
+            android:name=".sociology0"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy1"
+            android:label="@string/title_activity_sociology0"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy2"
+            android:name=".sociology1"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy2"
+            android:label="@string/title_activity_sociology1"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy3"
+            android:name=".sociology2"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy3"
+            android:label="@string/title_activity_sociology2"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy4"
+            android:name=".sociology3"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy4"
+            android:label="@string/title_activity_sociology3"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy5"
+            android:name=".sociology4"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy5"
+            android:label="@string/title_activity_sociology4"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy6"
+            android:name=".sociology5"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy6"
+            android:label="@string/title_activity_sociology5"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy7"
+            android:name=".sociology6"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy7"
+            android:label="@string/title_activity_sociology6"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy8"
+            android:name=".sociology7"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy8"
+            android:label="@string/title_activity_sociology7"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy9"
+            android:name=".sociology9"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy9"
+            android:label="@string/title_activity_sociology9"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy10"
+            android:name=".sociology8"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy10"
+            android:label="@string/title_activity_sociology8"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy11"
+            android:name=".sociology10"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy11"
+            android:label="@string/title_activity_sociology10"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy12"
+            android:name=".sociology11"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy12"
+            android:label="@string/title_activity_sociology11"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy13"
+            android:name=".sociology12"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy13"
+            android:label="@string/title_activity_sociology12"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy14"
+            android:name=".sociology13"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy14"
+            android:label="@string/title_activity_sociology13"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy15"
+            android:name=".sociology14"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy15"
+            android:label="@string/title_activity_sociology14"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy16"
+            android:name=".sociology15"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy16"
+            android:label="@string/title_activity_sociology15"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy17"
+            android:name=".sociology16"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy17"
+            android:label="@string/title_activity_sociology16"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy18"
+            android:name=".sociology17"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy18"
+            android:label="@string/title_activity_sociology17"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy19"
+            android:name=".sociology18"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy19"
+            android:label="@string/title_activity_sociology18"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy20"
+            android:name=".sociology19"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy20"
+            android:label="@string/title_activity_sociology19"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy21"
+            android:name=".sociology20"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy21"
+            android:label="@string/title_activity_sociology20"
             android:theme="@style/FullscreenTheme" />
         <activity
-            android:name=".psy22"
+            android:name=".sociology21"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy22"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy23"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy23"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy24"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy24"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy25"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy25"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy26"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy26"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy27"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy27"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy28"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy28"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy29"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy29"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy30"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy30"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy31"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy31"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy32"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy32"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy33"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy33"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy34"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy34"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy35"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy35"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy36"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy36"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy37"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy37"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy38"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy38"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy39"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy39"
-            android:theme="@style/FullscreenTheme" />
-        <activity
-            android:name=".psy40"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_psy40"
+            android:label="@string/title_activity_sociology21"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
