@@ -28,6 +28,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us1"
+                    android:onClick="goToUS1"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us2"
@@ -38,6 +39,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us2"
+                    android:onClick="goToUS2"
                     android:visibility="visible" />
 
                 <ImageButton
@@ -49,6 +51,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us3"
+                    android:onClick="goToUS3"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us4"
@@ -59,6 +62,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us4"
+                    android:onClick="goToUS4"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us5"
@@ -69,6 +73,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us5"
+                    android:onClick="goToUS5"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us6"
@@ -79,6 +84,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us6"
+                    android:onClick="goToUS6"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us7"
@@ -89,6 +95,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us7"
+                    android:onClick="goToUS7"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us8"
@@ -99,6 +106,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us8"
+                    android:onClick="goToUS8"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us9"
@@ -109,6 +117,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us9"
+                    android:onClick="goToUS9"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us10"
@@ -119,6 +128,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us10"
+                    android:onClick="goToUS10"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us11"
@@ -129,6 +139,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us11"
+                    android:onClick="goToUS11"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us12"
@@ -139,6 +150,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us12"
+                    android:onClick="goToUS12"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us13"
@@ -149,6 +161,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us13"
+                    android:onClick="goToUS13"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us14"
@@ -159,6 +172,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us14"
+                    android:onClick="goToUS14"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us15"
@@ -169,6 +183,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us15"
+                    android:onClick="goToUS15"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us16"
@@ -179,6 +194,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us16"
+                    android:onClick="goToUS16"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us17"
@@ -189,6 +205,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us17"
+                    android:onClick="goToUS17"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us18"
@@ -199,6 +216,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us18"
+                    android:onClick="goToUS18"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us19"
@@ -209,6 +227,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us19"
+                    android:onClick="goToUS19"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us20"
@@ -219,6 +238,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us20"
+                    android:onClick="goToUS20"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us21"
@@ -229,6 +249,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us21"
+                    android:onClick="goToUS21"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us22"
@@ -239,6 +260,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us22"
+                    android:onClick="goToUS22"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us23"
@@ -249,6 +271,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us23"
+                    android:onClick="goToUS23"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us24"
@@ -259,6 +282,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us24"
+                    android:onClick="goToUS24"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us25"
@@ -269,6 +293,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us25"
+                    android:onClick="goToUS25"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us26"
@@ -279,6 +304,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us26"
+                    android:onClick="goToUS26"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us27"
@@ -289,6 +315,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us27"
+                    android:onClick="goToUS27"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us28"
@@ -299,6 +326,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us28"
+                    android:onClick="goToUS28"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us29"
@@ -309,6 +337,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us29"
+                    android:onClick="goToUS29"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us30"
@@ -319,6 +348,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us30"
+                    android:onClick="goToUS30"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us31"
@@ -329,6 +359,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us31"
+                    android:onClick="goToUS31"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us32"
@@ -339,6 +370,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us32"
+                    android:onClick="goToUS32"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us33"
@@ -349,6 +381,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us33"
+                    android:onClick="goToUS33"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us34"
@@ -359,6 +392,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us34"
+                    android:onClick="goToUS34"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us35"
@@ -369,6 +403,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us35"
+                    android:onClick="goToUS35"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us36"
@@ -379,6 +414,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us36"
+                    android:onClick="goToUS36"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us37"
@@ -389,6 +425,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us37"
+                    android:onClick="goToUS37"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us38"
@@ -399,6 +436,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us38"
+                    android:onClick="goToUS38"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us39"
@@ -409,6 +447,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us39"
+                    android:onClick="goToUS39"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us40"
@@ -419,6 +458,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us40"
+                    android:onClick="goToUS40"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us41"
@@ -429,6 +469,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us41"
+                    android:onClick="goToUS41"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us42"
@@ -439,6 +480,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us42"
+                    android:onClick="goToUS42"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us43"
@@ -449,6 +491,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us43"
+                    android:onClick="goToUS43"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us44"
@@ -459,6 +502,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us44"
+                    android:onClick="goToUS44"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us45"
@@ -469,6 +513,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us45"
+                    android:onClick="goToUS45"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us46"
@@ -479,6 +524,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us46"
+                    android:onClick="goToUS46"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us47"
@@ -489,6 +535,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us47"
+                    android:onClick="goToUS47"
                     android:visibility="visible" />
                 <ImageButton
                     android:id="@+id/us48"
@@ -499,6 +546,7 @@
                     android:layout_alignParentTop="true"
                     android:background="@android:color/white"
                     android:src="@drawable/us48"
+                    android:onClick="goToUS48"
                     android:visibility="visible" />
 
 

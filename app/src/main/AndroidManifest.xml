@@ -982,8 +982,7 @@
             android:name=".sociology21"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_sociology21"
-            android:theme="@style/FullscreenTheme"></activity>
-
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".psy1"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -1184,6 +1183,246 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_psy40"
             android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us40"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us41"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us41"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us42"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us42"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us43"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us43"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us44"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us44"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us45"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us45"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us46"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us46"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us47"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us47"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".us48"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_us48"
+            android:theme="@style/FullscreenTheme"></activity>
     </application>
 
 </manifest>
