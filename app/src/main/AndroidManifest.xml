@@ -622,6 +622,256 @@
             android:name=".film17"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_film17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov40"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov41"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov41"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov42"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov42"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov43"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov43"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov44"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov44"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov45"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov45"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov46"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov46"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov47"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov47"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov48"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov48"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov49"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov49"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".gov50"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gov50"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
