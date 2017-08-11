@@ -622,6 +622,96 @@
             android:name=".film17"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_film17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".compsci0"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_compsci0"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
