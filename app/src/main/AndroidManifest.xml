@@ -872,6 +872,116 @@
             android:name=".gov50"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_gov50"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology0"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology0"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".sociology21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sociology21"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
