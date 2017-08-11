@@ -10,7 +10,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:weightSum="1" >
+        android:weightSum="1"
+        android:scaleType="fitXY" >
         <ImageButton
             android:id="@+id/button601"
             android:layout_width="match_parent"
@@ -19,8 +20,13 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:adjustViewBounds="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="goToE1"
+            android:cropToPadding="false"
             android:src="@drawable/eco1"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button602"
@@ -30,8 +36,10 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goToE2"
             android:src="@drawable/eco2"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button603"
@@ -41,8 +49,10 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goToE3"
             android:src="@drawable/eco3"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button604"
@@ -53,7 +63,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco4"
-            android:visibility="visible" />
+            android:onClick="goToE4"
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button605"
@@ -63,8 +75,10 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goToE5"
             android:src="@drawable/eco5"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button606"
@@ -73,9 +87,11 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:onClick="goToE6"
             android:background="@android:color/white"
             android:src="@drawable/eco6"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button607"
@@ -86,7 +102,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco7"
-            android:visibility="visible" />
+            android:onClick="goToE7"
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button608"
@@ -97,7 +115,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco8"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:onClick="goToE8"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button609"
@@ -108,7 +128,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco9"
-            android:visibility="visible" />
+            android:onClick="goToE9"
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button610"
@@ -119,7 +141,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco10"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:onClick="goToE10"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button611"
@@ -130,7 +154,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco11"
-            android:visibility="visible" />
+            android:onClick="goToE11"
+            android:visibility="visible"
+            android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/button612"
@@ -141,8 +167,10 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/eco12"
+            android:onClick="goToE12"
             android:visibility="visible"
-            android:layout_marginBottom="10dp"/>
+            android:layout_marginBottom="10dp"
+            android:scaleType="fitXY"/>
 
     </LinearLayout>
 </ScrollView>
