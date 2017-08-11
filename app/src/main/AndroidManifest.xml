@@ -1422,6 +1422,196 @@
             android:name=".us48"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_us48"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy40"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy41"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy41"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy42"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy42"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy43"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy43"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy44"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy44"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy45"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy45"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy46"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy46"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".anatomy47"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_anatomy47"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
