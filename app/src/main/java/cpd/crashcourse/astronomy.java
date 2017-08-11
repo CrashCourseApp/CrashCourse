@@ -18,7 +18,7 @@ public class astronomy extends AppCompatActivity {
 
     }
 
-    public void goToAstronomy1(View v){
+    public void goToAstronomyIntro(View v){
         Intent intent = new Intent(this, astronomy1.class);
         startActivity(intent);
     }

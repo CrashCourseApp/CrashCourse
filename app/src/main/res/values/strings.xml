@@ -310,4 +310,401 @@
     <string name="title_activity_film16">film16</string>
 
     <string name="title_activity_film17">film17</string>
+
+    <string name="title_activity_gov1">gov1</string>
+
+    <string name="title_activity_gov2">gov2</string>
+
+    <string name="title_activity_gov3">gov3</string>
+
+    <string name="title_activity_gov4">gov4</string>
+
+    <string name="title_activity_gov5">gov5</string>
+
+    <string name="title_activity_gov6">gov6</string>
+
+    <string name="title_activity_gov7">gov7</string>
+
+    <string name="title_activity_gov8">gov8</string>
+
+    <string name="title_activity_gov9">gov9</string>
+
+    <string name="title_activity_gov10">gov10</string>
+
+    <string name="title_activity_gov11">gov11</string>
+
+    <string name="title_activity_gov12">gov12</string>
+
+    <string name="title_activity_gov13">gov13</string>
+
+    <string name="title_activity_gov14">gov14</string>
+
+    <string name="title_activity_gov15">gov15</string>
+
+    <string name="title_activity_gov16">gov16</string>
+
+    <string name="title_activity_gov17">gov17</string>
+
+    <string name="title_activity_gov18">gov18</string>
+
+    <string name="title_activity_gov19">gov19</string>
+
+    <string name="title_activity_gov20">gov20</string>
+
+    <string name="title_activity_gov21">gov21</string>
+
+    <string name="title_activity_gov22">gov22</string>
+
+    <string name="title_activity_gov23">gov23</string>
+
+    <string name="title_activity_gov24">gov24</string>
+
+    <string name="title_activity_gov25">gov25</string>
+
+    <string name="title_activity_gov26">gov26</string>
+
+    <string name="title_activity_gov27">gov27</string>
+
+    <string name="title_activity_gov28">gov28</string>
+
+    <string name="title_activity_gov29">gov29</string>
+
+    <string name="title_activity_gov30">gov30</string>
+
+    <string name="title_activity_gov31">gov31</string>
+
+    <string name="title_activity_gov32">gov32</string>
+
+    <string name="title_activity_gov33">gov33</string>
+
+    <string name="title_activity_gov34">gov34</string>
+
+    <string name="title_activity_gov35">gov35</string>
+
+    <string name="title_activity_gov36">gov36</string>
+
+    <string name="title_activity_gov37">gov37</string>
+
+    <string name="title_activity_gov38">gov38</string>
+
+    <string name="title_activity_gov39">gov39</string>
+
+    <string name="title_activity_gov40">gov40</string>
+
+    <string name="title_activity_gov41">gov41</string>
+
+    <string name="title_activity_gov42">gov42</string>
+
+    <string name="title_activity_gov43">gov43</string>
+
+    <string name="title_activity_gov44">gov44</string>
+
+    <string name="title_activity_gov45">gov45</string>
+
+    <string name="title_activity_gov46">gov46</string>
+
+    <string name="title_activity_gov47">gov47</string>
+
+    <string name="title_activity_gov48">gov48</string>
+
+    <string name="title_activity_gov49">gov49</string>
+
+    <string name="title_activity_gov50">gov50</string>
+
+    <string name="title_activity_sociology0">sociology0</string>
+
+    <string name="title_activity_sociology1">sociology1</string>
+
+    <string name="title_activity_sociology2">sociology2</string>
+
+    <string name="title_activity_sociology3">sociology3</string>
+
+    <string name="title_activity_sociology4">sociology4</string>
+
+    <string name="title_activity_sociology5">sociology5</string>
+
+    <string name="title_activity_sociology6">sociology6</string>
+
+    <string name="title_activity_sociology7">sociology7</string>
+
+    <string name="title_activity_sociology9">sociology9</string>
+
+    <string name="title_activity_sociology8">sociology8</string>
+
+    <string name="title_activity_sociology10">sociology10</string>
+
+    <string name="title_activity_sociology11">sociology11</string>
+
+    <string name="title_activity_sociology12">sociology12</string>
+
+    <string name="title_activity_sociology13">sociology13</string>
+
+    <string name="title_activity_sociology14">sociology14</string>
+
+    <string name="title_activity_sociology15">sociology15</string>
+
+    <string name="title_activity_sociology16">sociology16</string>
+
+    <string name="title_activity_sociology17">sociology17</string>
+
+    <string name="title_activity_sociology18">sociology18</string>
+
+    <string name="title_activity_sociology19">sociology19</string>
+
+    <string name="title_activity_sociology20">sociology20</string>
+
+    <string name="title_activity_sociology21">sociology21</string>
+
+    <string name="title_activity_psy1">psy1</string>
+
+    <string name="title_activity_psy2">psy2</string>
+
+    <string name="title_activity_psy3">psy3</string>
+
+    <string name="title_activity_psy4">psy4</string>
+
+    <string name="title_activity_psy5">psy5</string>
+
+    <string name="title_activity_psy6">psy6</string>
+
+    <string name="title_activity_psy7">psy7</string>
+
+    <string name="title_activity_psy8">psy8</string>
+
+    <string name="title_activity_psy9">psy9</string>
+
+    <string name="title_activity_psy10">psy10</string>
+
+    <string name="title_activity_psy11">psy11</string>
+
+    <string name="title_activity_psy12">psy12</string>
+
+    <string name="title_activity_psy13">psy13</string>
+
+    <string name="title_activity_psy14">psy14</string>
+
+    <string name="title_activity_psy15">psy15</string>
+
+    <string name="title_activity_psy16">psy16</string>
+
+    <string name="title_activity_psy17">psy17</string>
+
+    <string name="title_activity_psy18">psy18</string>
+
+    <string name="title_activity_psy19">psy19</string>
+
+    <string name="title_activity_psy20">psy20</string>
+
+    <string name="title_activity_psy21">psy21</string>
+
+    <string name="title_activity_psy22">psy22</string>
+
+    <string name="title_activity_psy23">psy23</string>
+
+    <string name="title_activity_psy24">psy24</string>
+
+    <string name="title_activity_psy25">psy25</string>
+
+    <string name="title_activity_psy26">psy26</string>
+
+    <string name="title_activity_psy27">psy27</string>
+
+    <string name="title_activity_psy28">psy28</string>
+
+    <string name="title_activity_psy29">psy29</string>
+
+    <string name="title_activity_psy30">psy30</string>
+
+    <string name="title_activity_psy31">psy31</string>
+
+    <string name="title_activity_psy32">psy32</string>
+
+    <string name="title_activity_psy33">psy33</string>
+
+    <string name="title_activity_psy34">psy34</string>
+
+    <string name="title_activity_psy35">psy35</string>
+
+    <string name="title_activity_psy36">psy36</string>
+
+    <string name="title_activity_psy37">psy37</string>
+
+    <string name="title_activity_psy38">psy38</string>
+
+    <string name="title_activity_psy39">psy39</string>
+
+    <string name="title_activity_psy40">psy40</string>
+
+    <string name="title_activity_us1">us1</string>
+
+    <string name="title_activity_us2">us2</string>
+
+    <string name="title_activity_us3">us3</string>
+
+    <string name="title_activity_us4">us4</string>
+
+    <string name="title_activity_us5">us5</string>
+
+    <string name="title_activity_us6">us6</string>
+
+    <string name="title_activity_us7">us7</string>
+
+    <string name="title_activity_us8">us8</string>
+
+    <string name="title_activity_us9">us9</string>
+
+    <string name="title_activity_us10">us10</string>
+
+    <string name="title_activity_us11">us11</string>
+
+    <string name="title_activity_us12">us12</string>
+
+    <string name="title_activity_us13">us13</string>
+
+    <string name="title_activity_us14">us14</string>
+
+    <string name="title_activity_us15">us15</string>
+
+    <string name="title_activity_us16">us16</string>
+
+    <string name="title_activity_us17">us17</string>
+
+    <string name="title_activity_us18">us18</string>
+
+    <string name="title_activity_us19">us19</string>
+
+    <string name="title_activity_us20">us20</string>
+
+    <string name="title_activity_us21">us21</string>
+
+    <string name="title_activity_us22">us22</string>
+
+    <string name="title_activity_us23">us23</string>
+
+    <string name="title_activity_us24">us24</string>
+
+    <string name="title_activity_us25">us25</string>
+
+    <string name="title_activity_us26">us26</string>
+
+    <string name="title_activity_us27">us27</string>
+
+    <string name="title_activity_us28">us28</string>
+
+    <string name="title_activity_us29">us29</string>
+
+    <string name="title_activity_us30">us30</string>
+
+    <string name="title_activity_us31">us31</string>
+
+    <string name="title_activity_us32">us32</string>
+
+    <string name="title_activity_us33">us33</string>
+
+    <string name="title_activity_us34">us34</string>
+
+    <string name="title_activity_us35">us35</string>
+
+    <string name="title_activity_us36">us36</string>
+
+    <string name="title_activity_us37">us37</string>
+
+    <string name="title_activity_us38">us38</string>
+
+    <string name="title_activity_us39">us39</string>
+
+    <string name="title_activity_us40">us40</string>
+
+    <string name="title_activity_us41">us41</string>
+
+    <string name="title_activity_us42">us42</string>
+
+    <string name="title_activity_us43">us43</string>
+
+    <string name="title_activity_us44">us44</string>
+
+    <string name="title_activity_us45">us45</string>
+
+    <string name="title_activity_us46">us46</string>
+
+    <string name="title_activity_us47">us47</string>
+
+    <string name="title_activity_us48">us48</string>
+
+    <string name="title_activity_anatomy10">anatomy10</string>
+
+    <string name="title_activity_anatomy11">anatomy11</string>
+
+    <string name="title_activity_anatomy12">anatomy12</string>
+
+    <string name="title_activity_anatomy13">anatomy13</string>
+
+    <string name="title_activity_anatomy14">anatomy14</string>
+
+    <string name="title_activity_anatomy15">anatomy15</string>
+
+    <string name="title_activity_anatomy16">anatomy16</string>
+
+    <string name="title_activity_anatomy17">anatomy17</string>
+
+    <string name="title_activity_anatomy18">anatomy18</string>
+
+    <string name="title_activity_anatomy19">anatomy19</string>
+
+    <string name="title_activity_anatomy20">anatomy20</string>
+
+    <string name="title_activity_anatomy21">anatomy21</string>
+
+    <string name="title_activity_anatomy22">anatomy22</string>
+
+    <string name="title_activity_anatomy23">anatomy23</string>
+
+    <string name="title_activity_anatomy24">anatomy24</string>
+
+    <string name="title_activity_anatomy25">anatomy25</string>
+
+    <string name="title_activity_anatomy26">anatomy26</string>
+
+    <string name="title_activity_anatomy27">anatomy27</string>
+
+    <string name="title_activity_anatomy28">anatomy28</string>
+
+    <string name="title_activity_anatomy29">anatomy29</string>
+
+    <string name="title_activity_anatomy30">anatomy30</string>
+
+    <string name="title_activity_anatomy31">anatomy31</string>
+
+    <string name="title_activity_anatomy32">anatomy32</string>
+
+    <string name="title_activity_anatomy33">anatomy33</string>
+
+    <string name="title_activity_anatomy34">anatomy34</string>
+
+    <string name="title_activity_anatomy35">anatomy35</string>
+
+    <string name="title_activity_anatomy36">anatomy36</string>
+
+    <string name="title_activity_anatomy37">anatomy37</string>
+
+    <string name="title_activity_anatomy38">anatomy38</string>
+
+    <string name="title_activity_anatomy39">anatomy39</string>
+
+    <string name="title_activity_anatomy40">anatomy40</string>
+
+    <string name="title_activity_anatomy41">anatomy41</string>
+
+    <string name="title_activity_anatomy42">anatomy42</string>
+
+    <string name="title_activity_anatomy43">anatomy43</string>
+
+    <string name="title_activity_anatomy44">anatomy44</string>
+
+    <string name="title_activity_anatomy45">anatomy45</string>
+
+    <string name="title_activity_anatomy46">anatomy46</string>
+
+    <string name="title_activity_anatomy47">anatomy47</string>
+
 </resources>

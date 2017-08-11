@@ -18,7 +18,9 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs1"
+            android:onClick="goTocompsci0"
             android:visibility="visible" />
+
         <ImageButton
             android:id="@+id/comps2"
             android:layout_width="match_parent"
@@ -26,8 +28,10 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:background="@android:color/white" android:layout_marginTop="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/white"
             android:src="@drawable/cs2"
+            android:onClick="goTocompsci1"
             android:visibility="visible" />
 
         <ImageButton
@@ -39,6 +43,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs3"
+            android:onClick="goTocompsci2"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps4"
@@ -49,6 +54,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs4"
+            android:onClick="goTocompsci3"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps5"
@@ -59,6 +65,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs5"
+            android:onClick="goTocompsci4"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps6"
@@ -69,6 +76,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs6"
+            android:onClick="goTocompsci5"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps7"
@@ -79,6 +87,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs7"
+            android:onClick="goTocompsci6"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps8"
@@ -89,6 +98,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs8"
+            android:onClick="goTocompsci7"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps9"
@@ -99,6 +109,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs9"
+            android:onClick="goTocompsci8"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps10"
@@ -109,6 +120,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs10"
+            android:onClick="goTocompsci9"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps11"
@@ -119,6 +131,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs11"
+            android:onClick="goTocompsci10"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps12"
@@ -129,6 +142,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs12"
+            android:onClick="goTocompsci11"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps13"
@@ -139,6 +153,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs13"
+            android:onClick="goTocompsci12"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps14"
@@ -149,6 +164,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs14"
+            android:onClick="goTocompsci13"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps15"
@@ -159,6 +175,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs15"
+            android:onClick="goTocompsci14"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps16"
@@ -169,6 +186,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs16"
+            android:onClick="goTocompsci15"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps17"
@@ -179,6 +197,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs17"
+            android:onClick="goTocompsci16"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps18"
@@ -189,6 +208,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs18"
+            android:onClick="goTocompsci17"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps19"
@@ -199,6 +219,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs19"
+            android:onClick="goTocompsci18"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps20"
@@ -209,6 +230,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs20"
+            android:onClick="goTocompsci19"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps21"
@@ -219,6 +241,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs21"
+            android:onClick="goTocompsci20"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/comps22"
@@ -228,7 +251,19 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
+            android:src="@drawable/cs22"
+            android:onClick="goTocompsci21"
+            android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/comps23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/cs23"
+            android:onClick="goTocompsci22"
             android:visibility="visible" />
 
 

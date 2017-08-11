@@ -29,6 +29,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov1"
+            android:onClick="goToGovern1"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g2"
@@ -39,6 +40,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov2"
+            android:onClick="goToGovern2"
             android:visibility="visible" />
 
         <ImageButton
@@ -50,6 +52,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov3"
+            android:onClick="goToGovern3"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g4"
@@ -60,6 +63,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov4"
+            android:onClick="goToGovern4"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g5"
@@ -70,6 +74,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov5"
+            android:onClick="goToGovern5"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g6"
@@ -80,6 +85,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov6"
+            android:onClick="goToGovern6"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g7"
@@ -90,6 +96,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov7"
+            android:onClick="goToGovern7"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g8"
@@ -100,6 +107,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov8"
+            android:onClick="goToGovern8"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g9"
@@ -110,6 +118,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov9"
+            android:onClick="goToGovern9"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g10"
@@ -120,6 +129,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov10"
+            android:onClick="goToGovern10"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g11"
@@ -130,6 +140,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov11"
+            android:onClick="goToGovern11"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g12"
@@ -140,6 +151,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov12"
+            android:onClick="goToGovern12"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g13"
@@ -150,6 +162,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov13"
+            android:onClick="goToGovern13"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g14"
@@ -160,6 +173,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov14"
+            android:onClick="goToGovern14"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g15"
@@ -170,6 +184,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov15"
+            android:onClick="goToGovern15"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g16"
@@ -180,6 +195,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov16"
+            android:onClick="goToGovern16"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g17"
@@ -190,6 +206,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov17"
+            android:onClick="goToGovern17"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g18"
@@ -200,6 +217,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov18"
+            android:onClick="goToGovern18"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g19"
@@ -210,6 +228,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov19"
+            android:onClick="goToGovern19"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g20"
@@ -220,6 +239,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov20"
+            android:onClick="goToGovern20"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g21"
@@ -230,6 +250,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov21"
+            android:onClick="goToGovern21"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g22"
@@ -239,7 +260,19 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:src="@drawable/gov22"
+            android:onClick="goToGovern22"
+            android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/g23"
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
             android:src="@drawable/gov23"
+            android:onClick="goToGovern23"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g24"
@@ -250,6 +283,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov24"
+            android:onClick="goToGovern24"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g25"
@@ -260,6 +294,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov25"
+            android:onClick="goToGovern25"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g26"
@@ -270,6 +305,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov26"
+            android:onClick="goToGovern26"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g27"
@@ -280,6 +316,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov27"
+            android:onClick="goToGovern27"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g28"
@@ -290,6 +327,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov28"
+            android:onClick="goToGovern28"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g29"
@@ -300,6 +338,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov29"
+            android:onClick="goToGovern29"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g30"
@@ -310,6 +349,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov30"
+            android:onClick="goToGovern30"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g31"
@@ -320,6 +360,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov31"
+            android:onClick="goToGovern31"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g32"
@@ -330,6 +371,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov32"
+            android:onClick="goToGovern32"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g33"
@@ -340,6 +382,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov33"
+            android:onClick="goToGovern33"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g34"
@@ -350,6 +393,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov34"
+            android:onClick="goToGovern34"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g35"
@@ -360,6 +404,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov35"
+            android:onClick="goToGovern35"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g36"
@@ -370,6 +415,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov36"
+            android:onClick="goToGovern36"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g37"
@@ -380,6 +426,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov37"
+            android:onClick="goToGovern37"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g38"
@@ -390,6 +437,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov38"
+            android:onClick="goToGovern38"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g39"
@@ -400,6 +448,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov39"
+            android:onClick="goToGovern39"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g40"
@@ -410,6 +459,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov40"
+            android:onClick="goToGovern40"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g41"
@@ -420,6 +470,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov41"
+            android:onClick="goToGovern41"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g42"
@@ -430,6 +481,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov42"
+            android:onClick="goToGovern42"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g43"
@@ -440,6 +492,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov43"
+            android:onClick="goToGovern43"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g44"
@@ -450,6 +503,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov44"
+            android:onClick="goToGovern44"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g45"
@@ -460,6 +514,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov45"
+            android:onClick="goToGovern45"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g46"
@@ -470,6 +525,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov46"
+            android:onClick="goToGovern46"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g47"
@@ -480,6 +536,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov47"
+            android:onClick="goToGovern47"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g48"
@@ -490,6 +547,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov48"
+            android:onClick="goToGovern48"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g49"
@@ -500,6 +558,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov49"
+            android:onClick="goToGovern49"
             android:visibility="visible" />
         <ImageButton
             android:id="@+id/g50"
@@ -510,6 +569,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/gov50"
+            android:onClick="goToGovern50"
             android:visibility="visible" />
         </LinearLayout>
         </ScrollView>
