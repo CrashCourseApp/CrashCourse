@@ -537,6 +537,91 @@
             android:name=".econ35"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_econ35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".film17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_film17"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
