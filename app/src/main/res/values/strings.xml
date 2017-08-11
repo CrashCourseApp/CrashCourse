@@ -311,51 +311,103 @@
 
     <string name="title_activity_film17">film17</string>
 
-    <string name="title_activity_compsci1">compsci1</string>
+    <string name="title_activity_gov1">gov1</string>
 
-    <string name="title_activity_compsci2">compsci2</string>
+    <string name="title_activity_gov2">gov2</string>
 
-    <string name="title_activity_compsci3">compsci3</string>
+    <string name="title_activity_gov3">gov3</string>
 
-    <string name="title_activity_compsci4">compsci4</string>
+    <string name="title_activity_gov4">gov4</string>
 
-    <string name="title_activity_compsci5">compsci5</string>
+    <string name="title_activity_gov5">gov5</string>
 
-    <string name="title_activity_compsci6">compsci6</string>
+    <string name="title_activity_gov6">gov6</string>
 
-    <string name="title_activity_compsci7">compsci7</string>
+    <string name="title_activity_gov7">gov7</string>
 
-    <string name="title_activity_compsci8">compsci8</string>
+    <string name="title_activity_gov8">gov8</string>
 
-    <string name="title_activity_compsci9">compsci9</string>
+    <string name="title_activity_gov9">gov9</string>
 
-    <string name="title_activity_compsci10">compsci10</string>
+    <string name="title_activity_gov10">gov10</string>
 
-    <string name="title_activity_compsci11">compsci11</string>
+    <string name="title_activity_gov11">gov11</string>
 
-    <string name="title_activity_compsci12">compsci12</string>
+    <string name="title_activity_gov12">gov12</string>
 
-    <string name="title_activity_compsci13">compsci13</string>
+    <string name="title_activity_gov13">gov13</string>
 
-    <string name="title_activity_compsci14">compsci14</string>
+    <string name="title_activity_gov14">gov14</string>
 
-    <string name="title_activity_compsci15">compsci15</string>
+    <string name="title_activity_gov15">gov15</string>
 
-    <string name="title_activity_compsci16">compsci16</string>
+    <string name="title_activity_gov16">gov16</string>
 
-    <string name="title_activity_compsci17">compsci17</string>
+    <string name="title_activity_gov17">gov17</string>
 
-    <string name="title_activity_compsci18">compsci18</string>
+    <string name="title_activity_gov18">gov18</string>
 
-    <string name="title_activity_compsci19">compsci19</string>
+    <string name="title_activity_gov19">gov19</string>
 
-    <string name="title_activity_compsci20">compsci20</string>
+    <string name="title_activity_gov20">gov20</string>
 
-    <string name="title_activity_compsci21">compsci21</string>
+    <string name="title_activity_gov21">gov21</string>
 
-    <string name="title_activity_compsci22">compsci22</string>
+    <string name="title_activity_gov22">gov22</string>
 
-    <string name="title_activity_compsci23">compsci23</string>
+    <string name="title_activity_gov23">gov23</string>
 
-    <string name="title_activity_compsci0">compsci0</string>
+    <string name="title_activity_gov24">gov24</string>
+
+    <string name="title_activity_gov25">gov25</string>
+
+    <string name="title_activity_gov26">gov26</string>
+
+    <string name="title_activity_gov27">gov27</string>
+
+    <string name="title_activity_gov28">gov28</string>
+
+    <string name="title_activity_gov29">gov29</string>
+
+    <string name="title_activity_gov30">gov30</string>
+
+    <string name="title_activity_gov31">gov31</string>
+
+    <string name="title_activity_gov32">gov32</string>
+
+    <string name="title_activity_gov33">gov33</string>
+
+    <string name="title_activity_gov34">gov34</string>
+
+    <string name="title_activity_gov35">gov35</string>
+
+    <string name="title_activity_gov36">gov36</string>
+
+    <string name="title_activity_gov37">gov37</string>
+
+    <string name="title_activity_gov38">gov38</string>
+
+    <string name="title_activity_gov39">gov39</string>
+
+    <string name="title_activity_gov40">gov40</string>
+
+    <string name="title_activity_gov41">gov41</string>
+
+    <string name="title_activity_gov42">gov42</string>
+
+    <string name="title_activity_gov43">gov43</string>
+
+    <string name="title_activity_gov44">gov44</string>
+
+    <string name="title_activity_gov45">gov45</string>
+
+    <string name="title_activity_gov46">gov46</string>
+
+    <string name="title_activity_gov47">gov47</string>
+
+    <string name="title_activity_gov48">gov48</string>
+
+    <string name="title_activity_gov49">gov49</string>
+
+    <string name="title_activity_gov50">gov50</string>
 </resources>
