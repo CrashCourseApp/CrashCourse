@@ -260,6 +260,17 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:src="@drawable/gov22"
+            android:onClick="goToGovern22"
+            android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/g23"
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
             android:src="@drawable/gov23"
             android:onClick="goToGovern23"
             android:visibility="visible" />

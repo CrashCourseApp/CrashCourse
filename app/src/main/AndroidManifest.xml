@@ -872,6 +872,206 @@
             android:name=".gov50"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_gov50"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".psy40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_psy40"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
