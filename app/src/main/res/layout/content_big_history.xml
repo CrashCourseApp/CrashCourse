@@ -20,6 +20,7 @@
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
+                android:onClick="goToH1"
                 android:src="@drawable/h1"
                 android:visibility="visible" />
 
@@ -30,6 +31,7 @@
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
+                android:onClick="goToH2"
                 android:src="@drawable/h2"
                 android:visibility="visible" />
 
@@ -40,6 +42,7 @@
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
+                android:onClick="goToH3"
                 android:src="@drawable/h3"
                 android:visibility="visible" />
 
@@ -51,6 +54,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
                 android:src="@drawable/h4"
+                android:onClick="goToH4"
                 android:visibility="visible" />
 
             <ImageButton
@@ -60,6 +64,7 @@
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
+                android:onClick="goToH5"
                 android:src="@drawable/h5"
                 android:visibility="visible" />
 
@@ -71,6 +76,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
                 android:src="@drawable/h6"
+                android:onClick="goToH6"
                 android:visibility="visible" />
 
             <ImageButton
@@ -80,6 +86,7 @@
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
+                android:onClick="goToH7"
                 android:src="@drawable/h7"
                 android:visibility="visible" />
 
@@ -91,6 +98,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
                 android:src="@drawable/h8"
+                android:onClick="goToH8"
                 android:visibility="visible" />
 
             <ImageButton
@@ -101,6 +109,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
                 android:src="@drawable/h9"
+                android:onClick="goToH9"
                 android:visibility="visible" />
 
 
@@ -112,6 +121,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
                 android:src="@drawable/h10"
+                android:onClick="goToH10"
                 android:visibility="visible" />
 
 

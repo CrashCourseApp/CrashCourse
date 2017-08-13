@@ -86,6 +86,11 @@ public class ScrollingActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void goToGames(View v){
+        Intent intent = new Intent(this, games.class);
+        startActivity(intent);
+    }
+
     public void goToEcon(View v){
         Intent intent = new Intent(this,econ.class);
         startActivity(intent);
@@ -116,8 +121,4 @@ public class ScrollingActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void goToGames(View v){
-        Intent intent = new Intent(this,games.class);
-        startActivity(intent);
-    }
 }
