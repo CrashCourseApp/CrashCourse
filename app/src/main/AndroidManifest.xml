@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="cpd.crashcourse">
 
+
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -11,11 +12,10 @@
         android:normalScreens="true"
         android:smallScreens="true"
         android:xlargeScreens="true" />
-    <uses-sdk
-        android:minSdkVersion="24"
-        android:targetSdkVersion="26" />
 
-
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -3382,8 +3382,37 @@
             android:name=".phil4"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil4"
-            android:theme="@style/FullscreenTheme"/>
-
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".phil5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_phil5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".phil6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_phil6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".phil7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_phil7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".phil8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_phil8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".phil9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_phil9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".phil10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_phil10"
+            android:theme="@style/FullscreenTheme"></activity>
     </application>
 
 </manifest>
