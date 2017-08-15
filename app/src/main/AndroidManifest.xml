@@ -1612,6 +1612,220 @@
             android:name=".anatomy47"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_anatomy47"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone"
+            android:label="@string/title_activity_whone"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".whone1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone1"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone2"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone3"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone4"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone5"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone5"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone6"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone6"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone7"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone7"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone8"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone8"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone9"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone9"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone10"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone10"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone11"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone11"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone12"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone12"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone13"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone13"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone14"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone14"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone15"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone15"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone16"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone16"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone17"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone17"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone18"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone18"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone19"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone19"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone20"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone20"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone21"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone21"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone22"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone22"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone23"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone23"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone24"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone24"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone25"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone25"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone26"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone26"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone27"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone27"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone28"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone28"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone29"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone29"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone30"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone30"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone31"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone31"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone32"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone32"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone33"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone33"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone34"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone34"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone35"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone35"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone36"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone36"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone37"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone37"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone38"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone38"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone39"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone39"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone40"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone40"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone41"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone41"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".whone42"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_whone42"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
 
