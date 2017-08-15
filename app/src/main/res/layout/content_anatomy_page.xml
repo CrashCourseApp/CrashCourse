@@ -12,20 +12,19 @@
         <ImageButton
             android:id="@+id/ana1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:background="@android:color/white"
+            android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat1"
             android:onClick="goToAnatomyIntro"
             android:visibility="visible" />
-
         <ImageButton
             android:id="@+id/ana2"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -36,8 +35,8 @@
         <ImageButton
             android:id="@+id/ana3"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -47,8 +46,8 @@
         <ImageButton
             android:id="@+id/ana4"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -58,8 +57,8 @@
         <ImageButton
             android:id="@+id/ana5"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -69,8 +68,8 @@
         <ImageButton
             android:id="@+id/ana6"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -80,8 +79,8 @@
         <ImageButton
             android:id="@+id/ana7"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -91,8 +90,8 @@
         <ImageButton
             android:id="@+id/ana8"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -102,8 +101,8 @@
         <ImageButton
             android:id="@+id/ana9"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -113,8 +112,8 @@
         <ImageButton
             android:id="@+id/ana10"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -124,8 +123,8 @@
         <ImageButton
             android:id="@+id/ana11"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -135,8 +134,8 @@
         <ImageButton
             android:id="@+id/ana12"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -146,8 +145,8 @@
         <ImageButton
             android:id="@+id/ana13"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -157,8 +156,8 @@
         <ImageButton
             android:id="@+id/ana14"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -168,8 +167,8 @@
         <ImageButton
             android:id="@+id/ana15"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -179,8 +178,8 @@
         <ImageButton
             android:id="@+id/ana16"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -190,8 +189,8 @@
         <ImageButton
             android:id="@+id/ana17"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -201,8 +200,8 @@
         <ImageButton
             android:id="@+id/ana18"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -212,8 +211,8 @@
         <ImageButton
             android:id="@+id/ana19"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -223,8 +222,8 @@
         <ImageButton
             android:id="@+id/ana20"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -234,8 +233,8 @@
         <ImageButton
             android:id="@+id/ana21"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -245,8 +244,8 @@
         <ImageButton
             android:id="@+id/ana22"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -256,8 +255,8 @@
         <ImageButton
             android:id="@+id/ana23"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -267,8 +266,8 @@
         <ImageButton
             android:id="@+id/ana24"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -278,8 +277,8 @@
         <ImageButton
             android:id="@+id/ana25"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -289,8 +288,8 @@
         <ImageButton
             android:id="@+id/ana26"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -300,8 +299,8 @@
         <ImageButton
             android:id="@+id/ana27"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -311,8 +310,8 @@
         <ImageButton
             android:id="@+id/ana28"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -322,8 +321,8 @@
         <ImageButton
             android:id="@+id/ana29"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -333,8 +332,8 @@
         <ImageButton
             android:id="@+id/ana30"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -344,8 +343,8 @@
         <ImageButton
             android:id="@+id/ana31"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -355,8 +354,8 @@
         <ImageButton
             android:id="@+id/ana32"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -366,8 +365,8 @@
         <ImageButton
             android:id="@+id/ana33"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -377,8 +376,8 @@
         <ImageButton
             android:id="@+id/ana34"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -388,8 +387,8 @@
         <ImageButton
             android:id="@+id/ana35"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -399,8 +398,8 @@
         <ImageButton
             android:id="@+id/ana36"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -410,8 +409,8 @@
         <ImageButton
             android:id="@+id/ana37"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -421,8 +420,8 @@
         <ImageButton
             android:id="@+id/ana38"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -432,8 +431,8 @@
         <ImageButton
             android:id="@+id/ana39"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -443,8 +442,8 @@
         <ImageButton
             android:id="@+id/ana40"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -454,8 +453,8 @@
         <ImageButton
             android:id="@+id/ana41"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -465,8 +464,8 @@
         <ImageButton
             android:id="@+id/ana42"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -476,8 +475,8 @@
         <ImageButton
             android:id="@+id/ana43"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -487,8 +486,8 @@
         <ImageButton
             android:id="@+id/ana44"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -498,8 +497,8 @@
         <ImageButton
             android:id="@+id/ana45"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -509,8 +508,8 @@
         <ImageButton
             android:id="@+id/ana46"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
@@ -520,12 +519,12 @@
         <ImageButton
             android:id="@+id/ana47"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
+
             android:src="@drawable/anat47"
             android:onClick="goToAnatomy47"
             android:visibility="visible" />
@@ -534,10 +533,6 @@
 
     </LinearLayout>
 </ScrollView>
-
-
-
-
 
 
 

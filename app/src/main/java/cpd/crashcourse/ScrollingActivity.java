@@ -121,33 +121,4 @@ public class ScrollingActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void goToMyth(View v) {
-        Intent intent = new Intent(this, mythology.class);
-        startActivity(intent);
-    }
-
-    public void goToWH(View v) {
-        Intent intent = new Intent(this, wh.class);
-        startActivity(intent);
-    }
-
-    public void goToWH2(View v) {
-        Intent intent = new Intent(this, wh2.class);
-        startActivity(intent);
-    }
-
-    public void goToLit(View v) {
-        Intent intent = new Intent(this, literature.class);
-        startActivity(intent);
-    }
-
-    public void goToPhysics(View v) {
-        Intent intent = new Intent(this, physics.class);
-        startActivity(intent);
-    }
-
-    public void goToPhil(View v) {
-        Intent intent = new Intent(this, philosophy.class);
-        startActivity(intent);
-    }
 }

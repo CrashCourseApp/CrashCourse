@@ -1,100 +1,109 @@
-
-
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/scrollView4"
-    android:fillViewport="true"
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content" >
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="cpd.crashcourse.intellectualproperty"
+    tools:showIn="@layout/activity_intellectualproperty">
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:weightSum="1" >
+        android:orientation="vertical" >
 
         <ImageButton
-            android:id="@+id/buttonip01"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
-            android:layout_alignParentStart="true"
-            android:layout_alignParentTop="true"
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb1"
+            android:layout_height="135dp"
             android:src="@drawable/ip1"
-            android:onClick="goToip1"
-            android:visibility="visible" />
-
-        <ImageButton
-            android:id="@+id/buttonip02"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:onClick="goToAnatomyIntro"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb2"
+            android:layout_height="135dp"
             android:src="@drawable/ip2"
-            android:onClick="goToip2"
-            android:visibility="visible" />
-
-        <ImageButton
-            android:id="@+id/buttonip03"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:onClick="goToAnatomy2"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+
+        <ImageButton
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb3"
+            android:layout_height="135dp"
             android:src="@drawable/ip3"
-            android:onClick="goToip3"
-            android:visibility="visible" />
-
-        <ImageButton
-            android:id="@+id/buttonip04"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:onClick="goToAnatomy3"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb4"
+            android:layout_height="135dp"
             android:src="@drawable/ip4"
-            android:onClick="goToip4"
-            android:visibility="visible" />
-
-        <ImageButton
-            android:id="@+id/buttonip05"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:onClick="goToAnatomy4"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb5"
+            android:layout_height="135dp"
             android:src="@drawable/ip5"
-            android:onClick="goToip5"
-            android:visibility="visible" />
-
-        <ImageButton
-            android:id="@+id/buttonip06"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:onClick="goToAnatomy5"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb6"
+            android:layout_height="135dp"
             android:src="@drawable/ip6"
-            android:onClick="goToip6"
-            android:visibility="visible" />
-
-        <ImageButton
-            android:id="@+id/buttonip07"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true" android:scaleType="fitXY"
+            android:onClick="goToAnatomy6"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageButton
+            android:text="Button"
             android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/ipb7"
+            android:layout_height="135dp"
             android:src="@drawable/ip7"
-            android:onClick="goToip7"
-            android:visibility="visible" />
+            android:onClick="goToAnatomy7"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+
         </LinearLayout>
     </ScrollView>
+</android.support.v4.widget.NestedScrollView>
