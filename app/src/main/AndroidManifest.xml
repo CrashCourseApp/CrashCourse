@@ -38,6 +38,11 @@
             android:label="@string/title_activity_anatomy_page"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".econ"
+            android:label="econ"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".whone"
             android:label="whone"
             android:screenOrientation="portrait"
@@ -382,11 +387,7 @@
             android:label="@string/title_activity_gov"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".econ"
-            android:label="@string/title_activity_econ"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
+
         <activity
             android:name=".psych"
             android:label="@string/title_activity_psych"
