@@ -14,13 +14,13 @@
         <ImageButton
             android:id="@+id/game1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game1"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game2"
             android:layout_width="match_parent"
@@ -30,7 +30,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game2"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/game3"
@@ -41,7 +41,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game3"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game4"
             android:layout_width="match_parent"
@@ -51,7 +51,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game4"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game5"
             android:layout_width="match_parent"
@@ -61,7 +61,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game5"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game6"
             android:layout_width="match_parent"
@@ -71,7 +71,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game6"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game7"
             android:layout_width="match_parent"
@@ -81,7 +81,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game7"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game8"
             android:layout_width="match_parent"
@@ -91,7 +91,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game8"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game9"
             android:layout_width="match_parent"
@@ -101,7 +101,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game9"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game10"
             android:layout_width="match_parent"
@@ -111,7 +111,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game11"
             android:layout_width="match_parent"
@@ -121,7 +121,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game11"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game12"
             android:layout_width="match_parent"
@@ -131,7 +131,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game12"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game13"
             android:layout_width="match_parent"
@@ -141,7 +141,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game13"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game14"
             android:layout_width="match_parent"
@@ -151,7 +151,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game14"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game15"
             android:layout_width="match_parent"
@@ -161,7 +161,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game15"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game16"
             android:layout_width="match_parent"
@@ -171,7 +171,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game16"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game17"
             android:layout_width="match_parent"
@@ -181,7 +181,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game17"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game18"
             android:layout_width="match_parent"
@@ -191,7 +191,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game18"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game19"
             android:layout_width="match_parent"
@@ -201,7 +201,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game19"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game20"
             android:layout_width="match_parent"
@@ -211,7 +211,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game21"
             android:layout_width="match_parent"
@@ -221,7 +221,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game21"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game22"
             android:layout_width="match_parent"
@@ -231,7 +231,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game23"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game24"
             android:layout_width="match_parent"
@@ -241,7 +241,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game24"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game25"
             android:layout_width="match_parent"
@@ -251,7 +251,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game25"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game26"
             android:layout_width="match_parent"
@@ -261,7 +261,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game26"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game27"
             android:layout_width="match_parent"
@@ -271,7 +271,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game27"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game28"
             android:layout_width="match_parent"
@@ -281,7 +281,7 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game28"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/game29"
             android:layout_width="match_parent"
@@ -291,9 +291,11 @@
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/game29"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
     </LinearLayout>
 </ScrollView>
+
+
 
 

@@ -16,10 +16,10 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:background="@android:color/white" android:layout_marginTop="10dp"
+            android:background="@android:color/white"
             android:src="@drawable/film1"
             android:onClick="goToFilm1"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh2"
             android:layout_width="match_parent"
@@ -30,7 +30,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film2"
             android:onClick="goToFilm2"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
             android:id="@+id/fh3"
@@ -42,7 +42,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film3"
             android:onClick="goToFilm3"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh4"
             android:layout_width="match_parent"
@@ -53,7 +53,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film4"
             android:onClick="goToFilm4"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh5"
             android:layout_width="match_parent"
@@ -64,7 +64,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film5"
             android:onClick="goToFilm5"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh6"
             android:layout_width="match_parent"
@@ -75,7 +75,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film6"
             android:onClick="goToFilm6"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh7"
             android:layout_width="match_parent"
@@ -86,7 +86,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film7"
             android:onClick="goToFilm7"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh8"
             android:layout_width="match_parent"
@@ -97,7 +97,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film8"
             android:onClick="goToFilm8"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh9"
             android:layout_width="match_parent"
@@ -108,7 +108,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film9"
             android:onClick="goToFilm9"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh10"
             android:layout_width="match_parent"
@@ -119,7 +119,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film10"
             android:onClick="goToFilm10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh11"
             android:layout_width="match_parent"
@@ -130,7 +130,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film11"
             android:onClick="goToFilm11"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh12"
             android:layout_width="match_parent"
@@ -141,7 +141,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film12"
             android:onClick="goToFilm12"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh13"
             android:layout_width="match_parent"
@@ -152,7 +152,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film13"
             android:onClick="goToFilm13"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh14"
             android:layout_width="match_parent"
@@ -163,7 +163,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film14"
             android:onClick="goToFilm14"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh15"
             android:layout_width="match_parent"
@@ -174,7 +174,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film15"
             android:onClick="goToFilm15"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh16"
             android:layout_width="match_parent"
@@ -185,7 +185,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film16"
             android:onClick="goToFilm16"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
             android:id="@+id/fh17"
             android:layout_width="match_parent"
@@ -196,12 +196,14 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/film17"
             android:onClick="goToFilm17"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
 
 
     </LinearLayout>
 </ScrollView>
+
+
 
 
 

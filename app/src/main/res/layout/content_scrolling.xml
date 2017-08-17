@@ -168,6 +168,7 @@
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
                 android:src="@drawable/literature"
                 android:visibility="visible"
+                android:onClick="goToLit"
                 android:background="@android:color/white"
                 android:layout_marginTop="10dp"/>
 
@@ -179,6 +180,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
                 android:src="@drawable/mythology"
+                android:onClick="goTomyth"
                 android:visibility="visible"
                 android:background="@android:color/white"
                 android:layout_marginTop="10dp"/>
@@ -192,6 +194,7 @@
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
                 android:src="@drawable/philosophy"
                 android:visibility="visible"
+                android:onClick="goToPhil"
                 android:background="@android:color/white"
                 android:layout_marginTop="10dp"/>
 
@@ -204,6 +207,7 @@
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
                 android:src="@drawable/physics"
                 android:visibility="visible"
+                android:onClick="goToPhys"
                 android:background="@android:color/white"
                 android:layout_marginTop="10dp"/>
 
@@ -268,6 +272,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
                 android:src="@drawable/worldhistory"
+                android:onClick="goToWH"
                 android:visibility="visible"
                 android:background="@android:color/white"
                 android:layout_marginTop="10dp"/>
@@ -280,12 +285,11 @@
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
-                android:onClick="goToGov"
+                android:onClick="goToWH2"
                 android:src="@drawable/worldhistory2"
                 android:visibility="visible"
                 android:background="@android:color/white"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"/>
+                android:layout_marginTop="10dp" />
 
         </LinearLayout>
     </ScrollView>

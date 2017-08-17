@@ -12,514 +12,514 @@
         <ImageButton
             android:id="@+id/ana1"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat1"
             android:onClick="goToAnatomyIntro"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana2"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat2"
             android:onClick="goToAnatomy2"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/ana3"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat3"
             android:onClick="goToAnatomy3"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana4"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat4"
             android:onClick="goToAnatomy4"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana5"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat5"
             android:onClick="goToAnatomy5"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana6"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat6"
             android:onClick="goToAnatomy6"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana7"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat7"
             android:onClick="goToAnatomy7"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana8"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat8"
             android:onClick="goToAnatomy8"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana9"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat9"
             android:onClick="goToAnatomy9"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana10"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat10"
             android:onClick="goToAnatomy10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana11"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat11"
             android:onClick="goToAnatomy11"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana12"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat12"
             android:onClick="goToAnatomy12"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana13"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat13"
             android:onClick="goToAnatomy13"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana14"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat14"
             android:onClick="goToAnatomy14"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana15"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat15"
             android:onClick="goToAnatomy15"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana16"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat16"
             android:onClick="goToAnatomy16"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana17"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat17"
             android:onClick="goToAnatomy17"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana18"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat18"
             android:onClick="goToAnatomy18"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana19"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat19"
             android:onClick="goToAnatomy19"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana20"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat20"
             android:onClick="goToAnatomy20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana21"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat21"
             android:onClick="goToAnatomy21"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana22"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat22"
             android:onClick="goToAnatomy22"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana23"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat23"
             android:onClick="goToAnatomy23"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana24"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat24"
             android:onClick="goToAnatomy24"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana25"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat25"
             android:onClick="goToAnatomy25"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana26"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat26"
             android:onClick="goToAnatomy26"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana27"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat27"
             android:onClick="goToAnatomy27"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana28"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat28"
             android:onClick="goToAnatomy28"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana29"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat29"
             android:onClick="goToAnatomy29"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana30"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat30"
             android:onClick="goToAnatomy30"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana31"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat31"
             android:onClick="goToAnatomy31"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana32"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat32"
             android:onClick="goToAnatomy32"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana33"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat33"
             android:onClick="goToAnatomy33"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana34"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat34"
             android:onClick="goToAnatomy34"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana35"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat35"
             android:onClick="goToAnatomy35"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana36"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat36"
             android:onClick="goToAnatomy36"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana37"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat37"
             android:onClick="goToAnatomy37"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana38"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat38"
             android:onClick="goToAnatomy38"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana39"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat39"
             android:onClick="goToAnatomy39"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana40"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat40"
             android:onClick="goToAnatomy40"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana41"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat41"
             android:onClick="goToAnatomy41"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana42"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat42"
             android:onClick="goToAnatomy42"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana43"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat43"
             android:onClick="goToAnatomy43"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana44"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat44"
             android:onClick="goToAnatomy44"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana45"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat45"
             android:onClick="goToAnatomy45"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana46"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/anat46"
             android:onClick="goToAnatomy46"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/ana47"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -527,12 +527,14 @@
 
             android:src="@drawable/anat47"
             android:onClick="goToAnatomy47"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
 
     </LinearLayout>
 </ScrollView>
+
+
 
 
 

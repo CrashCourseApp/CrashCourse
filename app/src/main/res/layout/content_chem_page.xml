@@ -11,14 +11,14 @@
         <ImageButton
             android:id="@+id/button501"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/chem1"
             android:onClick="goTochemistry1"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button502"
@@ -30,7 +30,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem2"
             android:onClick="goTochemistry2"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button503"
@@ -42,7 +42,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem3"
             android:onClick="goTochemistry3"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button504"
@@ -54,7 +54,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem4"
             android:onClick="goTochemistry4"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button505"
@@ -66,7 +66,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem5"
             android:onClick="goTochemistry5"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button506"
@@ -78,7 +78,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem6"
             android:onClick="goTochemistry6"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button507"
@@ -90,7 +90,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem7"
             android:onClick="goTochemistry7"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button508"
@@ -102,7 +102,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem8"
             android:onClick="goTochemistry8"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button509"
@@ -114,7 +114,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem9"
             android:onClick="goTochemistry9"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button510"
@@ -126,7 +126,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem10"
             android:onClick="goTochemistry10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button511"
@@ -138,7 +138,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem11"
             android:onClick="goTochemistry11"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button512"
@@ -150,7 +150,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem12"
             android:onClick="goTochemistry12"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
         <ImageButton
@@ -163,7 +163,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem13"
             android:onClick="goTochemistry13"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button514"
@@ -175,7 +175,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem14"
             android:onClick="goTochemistry14"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button515"
@@ -187,7 +187,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem15"
             android:onClick="goTochemistry15"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button516"
@@ -199,7 +199,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem16"
             android:onClick="goTochemistry16"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button517"
@@ -211,7 +211,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem17"
             android:onClick="goTochemistry17"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button518"
@@ -223,7 +223,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem18"
             android:onClick="goTochemistry18"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button519"
@@ -235,7 +235,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem19"
             android:onClick="goTochemistry19"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button520"
@@ -247,7 +247,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem20"
             android:onClick="goTochemistry20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button521"
@@ -259,7 +259,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem21"
             android:onClick="goTochemistry21"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button522"
@@ -271,7 +271,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem22"
             android:onClick="goTochemistry22"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button523"
@@ -283,7 +283,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem23"
             android:onClick="goTochemistry23"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button524"
@@ -295,7 +295,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem24"
             android:onClick="goTochemistry24"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button525"
@@ -307,7 +307,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem25"
             android:onClick="goTochemistry25"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button526"
@@ -319,7 +319,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem26"
             android:onClick="goTochemistry26"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button527"
@@ -331,7 +331,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem27"
             android:onClick="goTochemistry27"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button528"
@@ -343,7 +343,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem28"
             android:onClick="goTochemistry28"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button529"
@@ -355,7 +355,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem29"
             android:onClick="goTochemistry29"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button530"
@@ -367,7 +367,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem30"
             android:onClick="goTochemistry30"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button531"
@@ -379,7 +379,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem31"
             android:onClick="goTochemistry31"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button532"
@@ -391,7 +391,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem32"
             android:onClick="goTochemistry32"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button533"
@@ -403,7 +403,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem33"
             android:onClick="goTochemistry33"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button534"
@@ -415,7 +415,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem34"
             android:onClick="goTochemistry34"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button535"
@@ -427,7 +427,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem35"
             android:onClick="goTochemistry35"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button536"
@@ -439,7 +439,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem36"
             android:onClick="goTochemistry36"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button537"
@@ -451,7 +451,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem37"
             android:onClick="goTochemistry37"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button538"
@@ -463,7 +463,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem38"
             android:onClick="goTochemistry38"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button539"
@@ -475,7 +475,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem39"
             android:onClick="goTochemistry39"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button540"
@@ -487,7 +487,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem40"
             android:onClick="goTochemistry40"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button541"
@@ -499,7 +499,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem41"
             android:onClick="goTochemistry41"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button542"
@@ -511,7 +511,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem42"
             android:onClick="goTochemistry42"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/button543"
             android:layout_width="match_parent"
@@ -522,7 +522,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem43"
             android:onClick="goTochemistry43"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button544"
@@ -534,7 +534,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem44"
             android:onClick="goTochemistry44"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/button545"
@@ -546,7 +546,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem45"
             android:onClick="goTochemistry45"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/button546"
             android:layout_width="match_parent"
@@ -557,7 +557,7 @@
             android:background="@android:color/white"
             android:src="@drawable/chem46"
             android:onClick="goTochemistry46"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
 
@@ -570,6 +570,8 @@
 
     </LinearLayout>
 </ScrollView>
+
+
 
 
 

@@ -1,500 +1,500 @@
 
 
-    <ScrollView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/scrollView4"
-        android:fillViewport="true"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView4"
+    android:fillViewport="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1" >
 
-        <LinearLayout
+        <ImageButton
+            android:id="@+id/button401"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:weightSum="1" >
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio1"
+            android:onClick="goToBio1"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button401"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio1"
-                android:onClick="goToBio1"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button402"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio2"
+            android:onClick="goToBio2"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button402"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio2"
-                android:onClick="goToBio2"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button403"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio3"
+            android:onClick="goToBio3"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button403"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio3"
-                android:onClick="goToBio3"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button404"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio4"
+            android:onClick="goToBio4"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button404"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio4"
-                android:onClick="goToBio4"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button405"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio5"
+            android:onClick="goToBio5"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button405"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio5"
-                android:onClick="goToBio5"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button406"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio6"
+            android:onClick="goToBio6"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button406"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio6"
-                android:onClick="goToBio6"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button407"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio7"
+            android:onClick="goToBio7"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button407"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio7"
-                android:onClick="goToBio7"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button408"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio8"
+            android:onClick="goToBio8"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button408"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio8"
-                android:onClick="goToBio8"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button409"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio9"
+            android:onClick="goToBio9"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button409"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio9"
-                android:onClick="goToBio9"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button410"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:onClick="goToBio10"
+            android:src="@drawable/bio10"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button410"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:onClick="goToBio10"
-                android:src="@drawable/bio10"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button411"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio11"
+            android:onClick="goToBio11"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button411"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio11"
-                android:onClick="goToBio11"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button412"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio12"
+            android:onClick="goToBio12"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button412"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio12"
-                android:onClick="goToBio12"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button413"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio13"
+            android:onClick="goToBio13"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button413"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio13"
-                android:onClick="goToBio13"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button414"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio14"
+            android:onClick="goToBio14"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button414"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio14"
-                android:onClick="goToBio14"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button415"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio15"
+            android:onClick="goToBio15"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button415"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio15"
-                android:onClick="goToBio15"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button416"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio16"
+            android:onClick="goToBio16"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button416"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio16"
-                android:onClick="goToBio16"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button417"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio17"
+            android:onClick="goToBio17"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button417"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio17"
-                android:onClick="goToBio17"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button418"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio18"
+            android:onClick="goToBio18"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button418"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio18"
-                android:onClick="goToBio18"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button419"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio19"
+            android:onClick="goToBio19"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button419"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio19"
-                android:onClick="goToBio19"
-                android:visibility="visible" />
-
-            <ImageButton
-                android:id="@+id/button420"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:onClick="goToBio20"
-                android:src="@drawable/bio20"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button420"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:onClick="goToBio20"
+            android:src="@drawable/bio20"
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
-            <ImageButton
-                android:id="@+id/button421"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio21"
-                android:onClick="goToBio21"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button421"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio21"
+            android:onClick="goToBio21"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button422"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio22"
-                android:onClick="goToBio22"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button422"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio22"
+            android:onClick="goToBio22"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button423"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio23"
-                android:onClick="goToBio23"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button423"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio23"
+            android:onClick="goToBio23"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button424"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio24"
-                android:onClick="goToBio24"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button424"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio24"
+            android:onClick="goToBio24"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button425"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio25"
-                android:onClick="goToBio25"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button425"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio25"
+            android:onClick="goToBio25"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button426"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio26"
-                android:onClick="goToBio26"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button426"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio26"
+            android:onClick="goToBio26"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button427"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio27"
-                android:onClick="goToBio27"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button427"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio27"
+            android:onClick="goToBio27"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button428"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio28"
-                android:onClick="goToBio28"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button428"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio28"
+            android:onClick="goToBio28"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button429"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio29"
-                android:onClick="goToBio29"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button429"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio29"
+            android:onClick="goToBio29"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button430"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:onClick="goToBio30"
-                android:src="@drawable/bio30"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button430"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:onClick="goToBio30"
+            android:src="@drawable/bio30"
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
 
-            <ImageButton
-                android:id="@+id/button431"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio31"
-                android:onClick="goToBio31"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button431"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio31"
+            android:onClick="goToBio31"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button432"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio32"
-                android:onClick="goToBio32"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button432"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio32"
+            android:onClick="goToBio32"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button433"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio33"
-                android:onClick="goToBio33"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button433"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio33"
+            android:onClick="goToBio33"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button434"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio34"
-                android:onClick="goToBio34"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button434"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio34"
+            android:onClick="goToBio34"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button435"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio35"
-                android:onClick="goToBio35"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button435"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio35"
+            android:onClick="goToBio35"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button436"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio36"
-                android:onClick="goToBio36"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button436"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio36"
+            android:onClick="goToBio36"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button437"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio37"
-                android:onClick="goToBio37"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button437"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio37"
+            android:onClick="goToBio37"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button438"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio38"
-                android:onClick="goToBio38"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button438"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio38"
+            android:onClick="goToBio38"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button439"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:src="@drawable/bio39"
-                android:onClick="goToBio39"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button439"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/bio39"
+            android:onClick="goToBio39"
+            android:visibility="visible" android:scaleType="fitXY" />
 
-            <ImageButton
-                android:id="@+id/button440"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:layout_marginTop="10dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:background="@android:color/white"
-                android:onClick="goToBio40"
-                android:src="@drawable/bio40"
-                android:visibility="visible" />
+        <ImageButton
+            android:id="@+id/button440"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:onClick="goToBio40"
+            android:src="@drawable/bio40"
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
 
@@ -503,8 +503,10 @@
 
 
 
-        </LinearLayout>
-    </ScrollView>
+    </LinearLayout>
+</ScrollView>
+
+
 
 
 

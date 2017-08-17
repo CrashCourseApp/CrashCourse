@@ -8,6 +8,6 @@
     tools:context="cpd.crashcourse.ChemPage">
 
     <include layout="@layout/content_chem_page"
-        android:layout_height="162dp" />
+        />
 
 </android.support.design.widget.CoordinatorLayout>

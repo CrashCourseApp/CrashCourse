@@ -16,7 +16,7 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:background="@android:color/white" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:background="@android:color/white"  android:scaleType="fitXY"
             android:src="@drawable/myth1"
             android:onClick="goTomyth1"
             android:visibility="visible" />

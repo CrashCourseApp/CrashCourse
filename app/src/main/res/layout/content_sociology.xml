@@ -19,7 +19,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc0"
             android:onClick="goTosociology0"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/socio1"
@@ -31,7 +31,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc1"
             android:onClick="goTosociology1"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio2"
             android:layout_width="match_parent"
@@ -42,7 +42,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc2"
             android:onClick="goTosociology2"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
         <ImageButton
             android:id="@+id/socio3"
@@ -54,7 +54,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc3"
             android:onClick="goTosociology3"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio4"
             android:layout_width="match_parent"
@@ -65,7 +65,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc4"
             android:onClick="goTosociology4"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio5"
             android:layout_width="match_parent"
@@ -76,7 +76,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc5"
             android:onClick="goTosociology5"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio6"
             android:layout_width="match_parent"
@@ -87,7 +87,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc6"
             android:onClick="goTosociology6"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio7"
             android:layout_width="match_parent"
@@ -98,7 +98,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc7"
             android:onClick="goTosociology7"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio8"
             android:layout_width="match_parent"
@@ -109,7 +109,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc8"
             android:onClick="goTosociology8"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio9"
             android:layout_width="match_parent"
@@ -120,7 +120,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc9"
             android:onClick="goTosociology9"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio10"
             android:layout_width="match_parent"
@@ -131,7 +131,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc10"
             android:onClick="goTosociology10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio11"
             android:layout_width="match_parent"
@@ -142,7 +142,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc11"
             android:onClick="goTosociology11"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio12"
             android:layout_width="match_parent"
@@ -153,7 +153,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc12"
             android:onClick="goTosociology12"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio13"
             android:layout_width="match_parent"
@@ -164,7 +164,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc13"
             android:onClick="goTosociology13"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio14"
             android:layout_width="match_parent"
@@ -175,7 +175,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc14"
             android:onClick="goTosociology14"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio15"
             android:layout_width="match_parent"
@@ -186,7 +186,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc15"
             android:onClick="goTosociology15"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio16"
             android:layout_width="match_parent"
@@ -197,7 +197,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc16"
             android:onClick="goTosociology16"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio17"
             android:layout_width="match_parent"
@@ -208,7 +208,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc17"
             android:onClick="goTosociology17"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio18"
             android:layout_width="match_parent"
@@ -219,7 +219,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc18"
             android:onClick="goTosociology18"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio19"
             android:layout_width="match_parent"
@@ -230,7 +230,7 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc19"
             android:onClick="goTosociology19"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/socio20"
             android:layout_width="match_parent"
@@ -241,11 +241,13 @@
             android:background="@android:color/white" android:layout_marginTop="10dp"
             android:src="@drawable/soc20"
             android:onClick="goTosociology20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY" />
 
 
     </LinearLayout>
 </ScrollView>
+
+
 
 
 
