@@ -22,7 +22,7 @@
             android:background="@android:color/white"
             android:src="@drawable/whtwo1"
             android:onClick="goTowhtwo1"
-            android:visibility="visible" android:layout_marginTop="10dp" android:scaleType="fitXY" />
+            android:visibility="visible"  android:scaleType="fitXY" />
         <ImageButton
             android:id="@+id/whtwo2"
             android:layout_width="match_parent"
