@@ -108,7 +108,7 @@ public class philosophy extends AppCompatActivity {
         startActivity(intent);
     }
     public void goTophil23(View v){
-        Intent intent = new Intent(this, phil23class);
+        Intent intent = new Intent(this, phil23.class);
         startActivity(intent);
     }
     public void goTophil24(View v){
