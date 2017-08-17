@@ -15,7 +15,7 @@
         <ImageButton
             android:id="@+id/whtwo1"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -26,7 +26,7 @@
         <ImageButton
             android:id="@+id/whtwo2"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -38,7 +38,7 @@
         <ImageButton
             android:id="@+id/whtwo3"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -49,7 +49,7 @@
         <ImageButton
             android:id="@+id/whtwo4"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -60,7 +60,7 @@
         <ImageButton
             android:id="@+id/whtwo5"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -71,7 +71,7 @@
         <ImageButton
             android:id="@+id/whtwo6"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -82,7 +82,7 @@
         <ImageButton
             android:id="@+id/whtwo7"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -93,7 +93,7 @@
         <ImageButton
             android:id="@+id/whtwo8"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -104,7 +104,7 @@
         <ImageButton
             android:id="@+id/whtwo9"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -115,7 +115,7 @@
         <ImageButton
             android:id="@+id/whtwo10"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -126,7 +126,7 @@
         <ImageButton
             android:id="@+id/whtwo11"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -137,7 +137,7 @@
         <ImageButton
             android:id="@+id/whtwo12"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -148,7 +148,7 @@
         <ImageButton
             android:id="@+id/whtwo13"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -159,7 +159,7 @@
         <ImageButton
             android:id="@+id/whtwo14"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -170,7 +170,7 @@
         <ImageButton
             android:id="@+id/whtwo15"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -181,7 +181,7 @@
         <ImageButton
             android:id="@+id/whtwo16"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -192,7 +192,7 @@
         <ImageButton
             android:id="@+id/whtwo17"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -203,7 +203,7 @@
         <ImageButton
             android:id="@+id/whtwo18"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -214,7 +214,7 @@
         <ImageButton
             android:id="@+id/whtwo19"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -225,7 +225,7 @@
         <ImageButton
             android:id="@+id/whtwo20"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -236,7 +236,7 @@
         <ImageButton
             android:id="@+id/whtwo21"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -247,7 +247,7 @@
         <ImageButton
             android:id="@+id/whtwo22"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -258,7 +258,7 @@
         <ImageButton
             android:id="@+id/whtwo23"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -269,7 +269,7 @@
         <ImageButton
             android:id="@+id/whtwo24"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -280,7 +280,7 @@
         <ImageButton
             android:id="@+id/whtwo25"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -291,7 +291,7 @@
         <ImageButton
             android:id="@+id/whtwo26"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -302,7 +302,7 @@
         <ImageButton
             android:id="@+id/whtwo27"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -313,7 +313,7 @@
         <ImageButton
             android:id="@+id/whtwo28"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -324,7 +324,7 @@
         <ImageButton
             android:id="@+id/whtwo29"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -335,7 +335,7 @@
         <ImageButton
             android:id="@+id/whtwo30"
             android:layout_width="match_parent"
-            android:layout_height="135dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -347,6 +347,8 @@
 
     </LinearLayout>
 </ScrollView>
+
+
 
 
 

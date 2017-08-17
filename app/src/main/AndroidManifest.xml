@@ -38,6 +38,11 @@
             android:label="@string/title_activity_anatomy_page"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".whone"
+            android:label="whone"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
         <activity
             android:name=".anatomyIntro"
             android:configChanges="orientation|keyboardHidden|screenSize"
