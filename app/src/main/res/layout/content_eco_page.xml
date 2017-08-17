@@ -1,4 +1,3 @@
-
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:fillViewport="true"
@@ -22,8 +21,8 @@
             android:background="@android:color/white"
             android:adjustViewBounds="true"
             android:layout_centerHorizontal="true"
-            android:onClick="goToE1"
             android:cropToPadding="false"
+            android:onClick="goToE1"
             android:src="@drawable/eco1"
             android:visibility="visible"
             android:scaleType="fitXY"/>

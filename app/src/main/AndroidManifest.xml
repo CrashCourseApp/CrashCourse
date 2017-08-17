@@ -21,6 +21,7 @@
         android:icon="@mipmap/cc"
         android:largeHeap="true"
         android:supportsRtl="true"
+        android:hardwareAccelerated="false"
         android:theme="@style/AppTheme">
         <activity
             android:name=".ScrollingActivity"
@@ -39,15 +40,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".econ"
-            android:label="@string/title_activity_econ"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".whone"
+            android:name=".whone"
             android:label="whone"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-
         <activity
             android:name=".anatomyIntro"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -326,11 +322,6 @@
             android:label="whone42"
             android:screenOrientation="sensorLandscape"
             android:theme="@style/FullscreenTheme" />
-
-
-
-
-
         <activity
             android:name=".EcoPage"
             android:label="@string/title_activity_eco_page"
@@ -387,7 +378,6 @@
             android:label="@string/title_activity_gov"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-
         <activity
             android:name=".psych"
             android:label="@string/title_activity_psych"
@@ -3509,610 +3499,732 @@
             android:name=".lit1"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit1"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit2"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit2"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit3"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit3"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit4"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit4"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit5"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit5"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit6"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit6"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit7"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit7"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit8"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit8"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit9"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit9"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit10"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit10"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit11"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit11"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit12"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit12"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit13"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit13"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit14"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit14"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit15"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit15"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit16"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit16"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit17"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit17"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit18"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit18"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit19"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit19"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit20"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit20"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit21"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit21"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit22"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit22"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit23"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit23"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".lit24"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_lit24"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil1"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil1"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil2"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil2"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil3"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil3"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil4"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil4"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil5"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil5"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil6"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil6"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil7"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil7"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil8"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil8"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil9"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil9"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil10"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil10"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil11"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil11"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil12"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil12"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil13"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil13"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil14"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil14"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil15"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil15"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil16"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil16"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil17"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil17"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil18"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil18"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil19"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil19"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil20"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil20"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil21"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil21"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil22"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil22"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil23"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil23"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil24"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil24"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil25"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil25"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil26"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil26"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil27"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil27"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil28"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil28"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil29"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil29"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil30"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil30"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil31"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil31"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil32"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil32"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil33"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil33"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil34"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil34"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil35"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil35"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil36"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil36"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil37"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil37"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil38"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil38"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil39"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil39"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil40"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil40"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil41"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil41"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil42"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil42"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil43"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil43"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil44"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil44"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil45"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil45"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".phil46"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_phil46"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth1"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth1"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth2"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth2"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth3"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth3"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth4"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth4"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth5"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth5"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth6"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth6"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth7"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth7"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth8"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth8"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth9"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth9"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth10"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth10"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth0"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth0"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth11"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth11"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth12"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth12"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth13"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth13"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth14"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth14"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth15"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth15"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth16"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth16"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth17"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth17"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth18"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth18"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth19"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth19"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".myth20"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_myth20"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo1"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone1"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo2"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone2"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo3"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone3"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo4"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone4"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo5"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone5"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo6"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone6"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo7"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone7"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo8"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone8"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo9"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone9"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo10"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whone10"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo11"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo11"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo12"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo12"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo13"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo13"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo14"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo14"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo15"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo15"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo16"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo16"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo17"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo17"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo18"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo18"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo19"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo19"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo20"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo20"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo21"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo21"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo22"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo22"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo23"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo23"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo24"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo24"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo25"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo25"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo26"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo26"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo27"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo27"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo28"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo28"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo29"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo29"
-            android:theme="@style/FullscreenTheme"              android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".whtwo30"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo39"
             android:theme="@style/FullscreenTheme" />
-
-
-
+        <activity
+            android:name=".Economics"
+            android:label="@string/title_activity_economics"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

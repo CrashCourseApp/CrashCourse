@@ -1,439 +1,439 @@
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/scrollViewEconPage"
+    android:id="@+id/scrollView1"
+    android:fillViewport="true"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content" >
+    android:layout_height="wrap_content">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical" >
+        android:orientation="vertical"
+        android:weightSum="1">
 
         <ImageButton
-            android:id="@+id/econ1"
+            android:id="@+id/economics1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:scaleType="fitXY"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ1"
             android:onClick="goToEcon1"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ2"
+            android:id="@+id/economics2"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ2"
             android:onClick="goToEcon2"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ3"
+            android:id="@+id/economics3"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ3"
             android:onClick="goToEcon3"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ4"
+            android:id="@+id/economics4"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ4"
             android:onClick="goToEcon4"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ5"
+            android:id="@+id/economics5"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ5"
             android:onClick="goToEcon5"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ6"
+            android:id="@+id/economics6"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ6"
             android:onClick="goToEcon6"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ7"
+            android:id="@+id/economics7"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ7"
             android:onClick="goToEcon7"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ8"
+            android:id="@+id/economics8"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ8"
             android:onClick="goToEcon8"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ9"
+            android:id="@+id/economics9"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ9"
             android:onClick="goToEcon9"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ10"
+            android:id="@+id/economics10"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ10"
             android:onClick="goToEcon10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ11"
+            android:id="@+id/economics11"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ11"
             android:onClick="goToEcon11"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ12"
+            android:id="@+id/economics12"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ12"
             android:onClick="goToEcon12"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ13"
+            android:id="@+id/economics13"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ13"
             android:onClick="goToEcon13"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ14"
+            android:id="@+id/economics14"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ14"
             android:onClick="goToEcon14"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ15"
+            android:id="@+id/economics15"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ15"
             android:onClick="goToEcon15"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ16"
+            android:id="@+id/economics16"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ16"
             android:onClick="goToEcon16"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ17"
+            android:id="@+id/economics17"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ17"
             android:onClick="goToEcon17"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ18"
+            android:id="@+id/economics18"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ18"
             android:onClick="goToEcon18"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ19"
+            android:id="@+id/economics19"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ19"
             android:onClick="goToEcon19"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ20"
+            android:id="@+id/economics20"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ20"
             android:onClick="goToEcon20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ21"
+            android:id="@+id/economics21"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ21"
             android:onClick="goToEcon21"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ22"
+            android:id="@+id/economics22"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ22"
             android:onClick="goToEcon22"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ23"
+            android:id="@+id/economics23"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ23"
             android:onClick="goToEcon23"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ24"
+            android:id="@+id/economics24"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ24"
             android:onClick="goToEcon24"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ25"
+            android:id="@+id/economics25"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ25"
             android:onClick="goToEcon25"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ26"
+            android:id="@+id/economics26"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ26"
             android:onClick="goToEcon26"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ27"
+            android:id="@+id/economics27"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ27"
             android:onClick="goToEcon27"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ28"
+            android:id="@+id/economics28"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ28"
             android:onClick="goToEcon28"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ29"
+            android:id="@+id/economics29"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ29"
             android:onClick="goToEcon29"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ30"
+            android:id="@+id/economics30"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ30"
             android:onClick="goToEcon30"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ31"
+            android:id="@+id/economics31"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ31"
             android:onClick="goToEcon31"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ32"
+            android:id="@+id/economics32"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ32"
             android:onClick="goToEcon32"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ33"
+            android:id="@+id/economics33"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ33"
             android:onClick="goToEcon33"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ34"
+            android:id="@+id/economics34"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ34"
             android:onClick="goToEcon34"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/econ35"
+            android:id="@+id/economics35"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/econ35"
             android:onClick="goToEcon35"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
 
 
     </LinearLayout>
 </ScrollView>
-
-
 
 
 

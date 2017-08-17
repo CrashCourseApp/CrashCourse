@@ -8,12 +8,12 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.content.Intent;
 
-public class econ extends AppCompatActivity {
+public class Economics extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_econ);
+        setContentView(R.layout.activity_economics);
     }
 
     public void goToEcon1(View v){

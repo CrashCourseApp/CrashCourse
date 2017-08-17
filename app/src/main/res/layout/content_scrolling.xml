@@ -85,12 +85,13 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true" android:scaleType="fitXY"
-                android:src="@drawable/computerscience"
-                android:visibility="visible"
-                android:onClick="goToCompSci"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="10dp"
                 android:background="@android:color/white"
-                android:layout_marginTop="10dp"/>
+                android:onClick="goToCompSci"
+                android:scaleType="fitXY"
+                android:src="@drawable/computerscience"
+                android:visibility="visible" />
 
 
             <ImageButton
@@ -107,16 +108,16 @@
                 android:visibility="visible" />
 
             <ImageButton
-                android:id="@+id/buttonecon"
+                android:id="@+id/buttonecons"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true" android:scaleType="fitXY"
-                android:onClick="goToEcon"
-                android:src="@drawable/economics"
+                android:onClick="goToEconomics"
                 android:background="@android:color/white"
                 android:layout_marginTop="10dp"
+                android:src="@drawable/economics"
                 android:visibility="visible" />
 
 
@@ -294,13 +295,12 @@
         </LinearLayout>
     </ScrollView>
 
-    <com.google.android.gms.ads.AdView
-        xmlns:ads="http://schemas.android.com/apk/res-auto"
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
         android:id="@+id/adView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
         ads:adSize="SMART_BANNER"
         ads:adUnitId="ca-app-pub-9787373154907443/3687566750">
 
