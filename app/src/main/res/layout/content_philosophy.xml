@@ -2,469 +2,578 @@
 
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/scrollView1"
+    android:id="@+id/scrollView4"
+    android:fillViewport="true"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical" >
+        android:orientation="vertical"
+        android:weightSum="1" >
 
         <ImageButton
-            android:id="@+id/phil1"
+            android:id="@+id/buttonphil01"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil1"
-            android:visibility="visible" />
+            android:onClick="goTophil1"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil2"
+            android:id="@+id/buttonphil02"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil2"
-            android:visibility="visible" />
+            android:onClick="goTophil2"
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/phil3"
+            android:id="@+id/buttonphil03"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil3"
-            android:visibility="visible" />
+            android:onClick="goTophil3"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil4"
+            android:id="@+id/buttonphil04"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil4"
-            android:visibility="visible" />
+            android:onClick="goTophil4"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil5"
+            android:id="@+id/buttonphil05"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil5"
-            android:visibility="visible" />
+            android:onClick="goTophil5"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil6"
+            android:id="@+id/buttonphil06"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil6"
-            android:visibility="visible" />
+            android:onClick="goTophil6"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil7"
+            android:id="@+id/buttonphil07"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil7"
-            android:visibility="visible" />
+            android:onClick="goTophil7"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil8"
+            android:id="@+id/buttonphil08"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil8"
-            android:visibility="visible" />
+            android:onClick="goTophil8"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil9"
+            android:id="@+id/buttonphil09"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil9"
-            android:visibility="visible" />
+            android:onClick="goTophil9"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil10"
+            android:id="@+id/buttonphil10"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil10"
             android:src="@drawable/phil10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil11"
+            android:id="@+id/buttonphil11"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil11"
-            android:visibility="visible" />
+            android:onClick="goTophil11"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil12"
+            android:id="@+id/buttonphil12"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil12"
-            android:visibility="visible" />
+            android:onClick="goTophil12"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil13"
+            android:id="@+id/buttonphil13"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil13"
-            android:visibility="visible" />
+            android:onClick="goTophil13"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil14"
+            android:id="@+id/buttonphil14"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil14"
-            android:visibility="visible" />
+            android:onClick="goTophil14"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil15"
+            android:id="@+id/buttonphil15"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil15"
-            android:visibility="visible" />
+            android:onClick="goTophil15"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil16"
+            android:id="@+id/buttonphil16"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil16"
-            android:visibility="visible" />
+            android:onClick="goTophil16"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil17"
+            android:id="@+id/buttonphil17"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil17"
-            android:visibility="visible" />
+            android:onClick="goTophil17"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil18"
+            android:id="@+id/buttonphil18"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil18"
-            android:visibility="visible" />
+            android:onClick="goTophil18"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil19"
+            android:id="@+id/buttonphil19"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil19"
-            android:visibility="visible" />
+            android:onClick="goTophil19"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil20"
+            android:id="@+id/buttonphil20"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil20"
             android:src="@drawable/phil20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
+
         <ImageButton
-            android:id="@+id/phil21"
+            android:id="@+id/buttonphil21"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil21"
-            android:visibility="visible" />
+            android:onClick="goTophil21"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil22"
+            android:id="@+id/buttonphil22"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/phil22"
+            android:onClick="goTophil22"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
+        <ImageButton
+            android:id="@+id/buttonphil23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil23"
-            android:visibility="visible" />
+            android:onClick="goTophil23"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil24"
+            android:id="@+id/buttonphil24"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil24"
-            android:visibility="visible" />
+            android:onClick="goTophil24"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil25"
+            android:id="@+id/buttonphil25"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil25"
-            android:visibility="visible" />
+            android:onClick="goTophil25"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil26"
+            android:id="@+id/buttonphil26"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil26"
-            android:visibility="visible" />
+            android:onClick="goTophil26"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil27"
+            android:id="@+id/buttonphil27"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil27"
-            android:visibility="visible" />
+            android:onClick="goTophil27"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil28"
+            android:id="@+id/buttonphil28"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil28"
-            android:visibility="visible" />
+            android:onClick="goTophil28"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil29"
+            android:id="@+id/buttonphil29"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil29"
-            android:visibility="visible" />
+            android:onClick="goTophil29"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil30"
+            android:id="@+id/buttonphil30"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil30"
             android:src="@drawable/phil30"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
+
+
         <ImageButton
-            android:id="@+id/phil31"
+            android:id="@+id/buttonphil31"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil31"
-            android:visibility="visible" />
+            android:onClick="goTophil31"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil32"
+            android:id="@+id/buttonphil32"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil32"
-            android:visibility="visible" />
+            android:onClick="goTophil32"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil33"
+            android:id="@+id/buttonphil33"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil33"
-            android:visibility="visible" />
+            android:onClick="goTophil33"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil34"
+            android:id="@+id/buttonphil34"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil34"
-            android:visibility="visible" />
+            android:onClick="goTophil34"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil35"
+            android:id="@+id/buttonphil35"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil35"
-            android:visibility="visible" />
+            android:onClick="goTophil35"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil36"
+            android:id="@+id/buttonphil36"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil36"
-            android:visibility="visible" />
+            android:onClick="goTophil36"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil37"
+            android:id="@+id/buttonphil37"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil37"
-            android:visibility="visible" />
+            android:onClick="goTophil37"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil38"
+            android:id="@+id/buttonphil38"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil38"
-            android:visibility="visible" />
+            android:onClick="goTophil38"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil39"
+            android:id="@+id/buttonphil39"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/phil39"
-            android:visibility="visible" />
+            android:onClick="goTophil39"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil40"
+            android:id="@+id/buttonphil40"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil40"
             android:src="@drawable/phil40"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
-            android:id="@+id/phil41"
+            android:id="@+id/buttonphil41"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil41"
             android:src="@drawable/phil41"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
-            android:id="@+id/phil42"
+            android:id="@+id/buttonphil42"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil42"
             android:src="@drawable/phil42"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
-            android:id="@+id/phil43"
+            android:id="@+id/buttonphil43"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil43"
             android:src="@drawable/phil43"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
-            android:id="@+id/phil44"
+            android:id="@+id/buttonphil44"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil44"
             android:src="@drawable/phil44"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/phil45"
+            android:id="@+id/buttonphil45"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil45"
             android:src="@drawable/phil45"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
         <ImageButton
-            android:id="@+id/phil46"
+            android:id="@+id/buttonphil46"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTophil46"
             android:src="@drawable/phil46"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
+
+
+
+
+
+
 
     </LinearLayout>
 </ScrollView>
+
+
 
 
 

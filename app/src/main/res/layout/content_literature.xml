@@ -1,266 +1,305 @@
 
 
 <ScrollView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/scrollView1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView4"
+    android:fillViewport="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical" >
-
-
+        android:orientation="vertical"
+        android:weightSum="1" >
 
         <ImageButton
-            android:id="@+id/lit1"
+            android:id="@+id/buttonlit01"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit1"
-            android:visibility="visible" />
+            android:onClick="goTolit1"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit2"
+            android:id="@+id/buttonlit02"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit2"
-            android:visibility="visible" />
+            android:onClick="goTolit2"
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/lit3"
+            android:id="@+id/buttonlit03"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit3"
-            android:visibility="visible" />
+            android:onClick="goTolit3"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit4"
+            android:id="@+id/buttonlit04"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit4"
-            android:visibility="visible" />
+            android:onClick="goTolit4"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit5"
+            android:id="@+id/buttonlit05"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit5"
-            android:visibility="visible" />
+            android:onClick="goTolit5"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit6"
+            android:id="@+id/buttonlit06"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit6"
-            android:visibility="visible" />
+            android:onClick="goTolit6"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit7"
+            android:id="@+id/buttonlit07"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit7"
-            android:visibility="visible" />
+            android:onClick="goTolit7"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit8"
+            android:id="@+id/buttonlit08"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit8"
-            android:visibility="visible" />
+            android:onClick="goTolit8"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit9"
+            android:id="@+id/buttonlit09"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit9"
-            android:visibility="visible" />
+            android:onClick="goTolit9"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit10"
+            android:id="@+id/buttonlit10"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTolit10"
             android:src="@drawable/lit10"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit11"
+            android:id="@+id/buttonlit11"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit11"
-            android:visibility="visible" />
+            android:onClick="goTolit11"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit12"
+            android:id="@+id/buttonlit12"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit12"
-            android:visibility="visible" />
+            android:onClick="goTolit12"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit13"
+            android:id="@+id/buttonlit13"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit13"
-            android:visibility="visible" />
+            android:onClick="goTolit13"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit14"
+            android:id="@+id/buttonlit14"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit14"
-            android:visibility="visible" />
+            android:onClick="goTolit14"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit15"
+            android:id="@+id/buttonlit15"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit15"
-            android:visibility="visible" />
+            android:onClick="goTolit15"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit16"
+            android:id="@+id/buttonlit16"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit16"
-            android:visibility="visible" />
+            android:onClick="goTolit16"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit17"
+            android:id="@+id/buttonlit17"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit17"
-            android:visibility="visible" />
+            android:onClick="goTolit17"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit18"
+            android:id="@+id/buttonlit18"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit18"
-            android:visibility="visible" />
+            android:onClick="goTolit18"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit19"
+            android:id="@+id/buttonlit19"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit19"
-            android:visibility="visible" />
+            android:onClick="goTolit19"
+            android:visibility="visible" android:scaleType="fitXY"/>
+
         <ImageButton
-            android:id="@+id/lit20"
+            android:id="@+id/buttonlit20"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
+            android:onClick="goTolit20"
             android:src="@drawable/lit20"
-            android:visibility="visible" />
+            android:visibility="visible" android:scaleType="fitXY"/>
+
+
         <ImageButton
-            android:id="@+id/lit21"
+            android:id="@+id/buttonlit21"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit21"
-            android:visibility="visible" />
+            android:onClick="goTolit21"
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/lit22"
+            android:id="@+id/buttonlit22"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit22"
-            android:visibility="visible" />
+            android:onClick="goTolit22"
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/lit23"
+            android:id="@+id/buttonlit23"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit23"
-            android:visibility="visible" />
+            android:onClick="goTolit23"
+            android:visibility="visible" android:scaleType="fitXY"/>
 
         <ImageButton
-            android:id="@+id/lit24"
+            android:id="@+id/buttonlit24"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
             android:src="@drawable/lit24"
-            android:visibility="visible" />
-
-
-    </LinearLayout>
-</ScrollView>
-
-
-
+            android:onClick="goTolit24"
+            android:visibility="visible" android:scaleType="fitXY"/>
+        </LinearLayout>
+    </ScrollView>
