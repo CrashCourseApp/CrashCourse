@@ -11,15 +11,27 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 
 public class ScrollingActivity extends AppCompatActivity {
+
+    private AdView mAdView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_scrolling);
+        MobileAds.initialize(this, "ca-app-pub-9787373154907443~1221137785");
 
-
+        mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+        AdRequest request = new AdRequest.Builder()
+                .addTestDevice("7550DB6338D573BF3B585BB0414268B6")
+                .build();
     }
 
     @Override
@@ -92,7 +104,7 @@ public class ScrollingActivity extends AppCompatActivity {
     }
 
     public void goToEcon(View v){
-        Intent intent = new Intent(this,econ.class);
+        Intent intent = new Intent(this, econ.class);
         startActivity(intent);
     }
 
