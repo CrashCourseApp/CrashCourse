@@ -1,5 +1,7 @@
 
 
+
+
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/scrollView1"
@@ -12,289 +14,362 @@
         android:orientation="vertical" >
 
         <ImageButton
-            android:id="@+id/game1"
+            android:id="@+id/games1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="wrap_content" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game1"
-            android:visibility="visible" android:scaleType="fitXY"/>
-        <ImageButton
-            android:id="@+id/game2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentStart="true"
-            android:layout_alignParentTop="true"
-            android:background="@android:color/white"
-            android:src="@drawable/game2"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games1"
+            android:onClick="goTogames1"
+            android:visibility="visible" />
 
         <ImageButton
-            android:id="@+id/game3"
+            android:id="@+id/games2"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game3"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games2"
+            android:onClick="goTogames2"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game4"
+            android:id="@+id/games3"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game4"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games3"
+            android:onClick="goTogames3"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game5"
+            android:id="@+id/games4"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game5"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games4"
+            android:onClick="goTogames4"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game6"
+            android:id="@+id/games5"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game6"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games5"
+            android:onClick="goTogames5"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game7"
+            android:id="@+id/games6"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game7"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games6"
+            android:onClick="goTogames6"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game8"
+            android:id="@+id/games7"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game8"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games7"
+            android:onClick="goTogames7"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game9"
+            android:id="@+id/games8"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game9"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games8"
+            android:onClick="goTogames8"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game10"
+            android:id="@+id/games9"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game10"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games9"
+            android:onClick="goTogames9"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game11"
+            android:id="@+id/games10"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game11"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games10"
+            android:onClick="goTogames10"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game12"
+            android:id="@+id/games11"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game12"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games11"
+            android:onClick="goTogames11"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game13"
+            android:id="@+id/games12"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game13"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games12"
+            android:onClick="goTogames12"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game14"
+            android:id="@+id/games13"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game14"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games13"
+            android:onClick="goTogames13"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game15"
+            android:id="@+id/games14"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game15"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games14"
+            android:onClick="goTogames14"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game16"
+            android:id="@+id/games15"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game16"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games15"
+            android:onClick="goTogames15"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game17"
+            android:id="@+id/games16"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game17"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games16"
+            android:onClick="goTogames16"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game18"
+            android:id="@+id/games17"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game18"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games17"
+            android:onClick="goTogames17"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game19"
+            android:id="@+id/games18"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game19"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games18"
+            android:onClick="goTogames18"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game20"
+            android:id="@+id/games19"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game20"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games19"
+            android:onClick="goTogames19"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game21"
+            android:id="@+id/games20"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game21"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games20"
+            android:onClick="goTogames20"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game22"
+            android:id="@+id/games21"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game23"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games21"
+            android:onClick="goTogames21"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game24"
+            android:id="@+id/games22"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game24"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games22"
+            android:onClick="goTogames22"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game25"
+            android:id="@+id/games23"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game25"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games23"
+            android:onClick="goTogames23"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game26"
+            android:id="@+id/games24"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game26"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games24"
+            android:onClick="goTogames24"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game27"
+            android:id="@+id/games25"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game27"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games25"
+            android:onClick="goTogames25"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game28"
+            android:id="@+id/games26"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game28"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games26"
+            android:onClick="goTogames26"
+            android:visibility="visible" />
+
         <ImageButton
-            android:id="@+id/game29"
+            android:id="@+id/games27"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
             android:layout_alignParentEnd="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:background="@android:color/white"
-            android:src="@drawable/game29"
-            android:visibility="visible" android:scaleType="fitXY"/>
+            android:src="@drawable/games27"
+            android:onClick="goTogames27"
+            android:visibility="visible" />
+
+        <ImageButton
+            android:id="@+id/games28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/games28"
+            android:onClick="goTogames28"
+            android:visibility="visible" />
+
+        <ImageButton
+            android:id="@+id/games29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp" android:scaleType="fitXY"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:src="@drawable/games29"
+            android:onClick="goTogames29"
+            android:visibility="visible" />
+
+
+
 
     </LinearLayout>
 </ScrollView>
+
+
+
+
 
 
 

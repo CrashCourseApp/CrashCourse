@@ -40,7 +40,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".econ"
-            android:label="econ"
+            android:label="@string/title_activity_econ"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".whone"
@@ -4109,7 +4109,7 @@
             android:name=".whtwo30"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_whtwo39"
-            android:theme="@style/FullscreenTheme"></activity>
+            android:theme="@style/FullscreenTheme" />
 
 
 

@@ -107,7 +107,7 @@
                 android:visibility="visible" />
 
             <ImageButton
-                android:id="@+id/button7.5"
+                android:id="@+id/buttonecon"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
