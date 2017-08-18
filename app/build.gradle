@@ -1,6 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        CrashCourse {
+            keyAlias 'ProjectOneAppsKey'
+            keyPassword 'Projectapps'
+            storeFile file('C:/AmanDrive/CrashCourse/TheKey/CrashKey.jks')
+            storePassword 'Projectapps'
+        }
+    }
     dexOptions {
         javaMaxHeapSize "4g"
     }
@@ -10,9 +18,9 @@ android {
         applicationId "cpd.crashcourse"
         minSdkVersion 21
         targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
+        versionName '1.0'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        versionCode 1
     }
     buildTypes {
         release {
