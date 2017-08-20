@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "736586368247",
-    "firebase_url": "https://crash-course-13e06.firebaseio.com",
-    "project_id": "crash-course-13e06",
-    "storage_bucket": "crash-course-13e06.appspot.com"
+    "project_number": "976841621716",
+    "firebase_url": "https://crashcourse-video-app.firebaseio.com",
+    "project_id": "crashcourse-video-app",
+    "storage_bucket": "crashcourse-video-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:736586368247:android:f6758341142c122e",
+        "mobilesdk_app_id": "1:976841621716:android:b166e5f7671f7338",
         "android_client_info": {
-          "package_name": "cpd.crashcourse"
+          "package_name": "com.crashcourse"
         }
       },
       "oauth_client": [
         {
-          "client_id": "736586368247-3it40r8unuk8v6psknsjdbv0kbb6pmaq.apps.googleusercontent.com",
+          "client_id": "976841621716-9fl2u58fioofrka72jh9lrric79gsbep.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "cpd.crashcourse",
+            "package_name": "com.crashcourse",
             "certificate_hash": "7110d81f73be133fad1694747074d60786999298"
           }
         },
         {
-          "client_id": "736586368247-sn8v3tblmk05hedihof7i0lm2813mnqk.apps.googleusercontent.com",
+          "client_id": "976841621716-prunidsbtd543snbirucvm8m3rqplfbh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDNNW27B6HGvbEwEZJ4E9iH_irfDEhyCVg"
+          "current_key": "AIzaSyDpbHEPpDdZccfF10qcODYEU2S1Z0p35u4"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "736586368247-sn8v3tblmk05hedihof7i0lm2813mnqk.apps.googleusercontent.com",
+              "client_id": "976841621716-prunidsbtd543snbirucvm8m3rqplfbh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

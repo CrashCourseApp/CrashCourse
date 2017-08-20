@@ -20,7 +20,7 @@ public class ScrollingActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_scrolling);
-        MobileAds.initialize(this, "ca-app-pub-9787373154907443~1221137785");
+        MobileAds.initialize(this, "ca-app-pub-9787373154907443~6073911157");
 
         mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
