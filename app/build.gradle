@@ -15,7 +15,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '25.0.3'
     defaultConfig {
-        applicationId "cpd.crashcourse"
+        applicationId 'com.crashcourse'
         minSdkVersion 21
         targetSdkVersion 25
         versionName '1.0'

@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="cpd.crashcourse.psy17">
+    tools:context="com.crashcourse.psy17">
 
     <fragment
         android:name="com.google.android.youtube.player.YouTubePlayerFragment"
