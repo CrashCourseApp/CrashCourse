@@ -17,7 +17,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/cc"
+        android:icon="@mipmap/ccicon"
         android:largeHeap="true"
         android:supportsRtl="true"
         android:hardwareAccelerated="false"
